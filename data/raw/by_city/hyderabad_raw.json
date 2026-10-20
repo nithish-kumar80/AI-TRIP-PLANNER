@@ -1,0 +1,1964 @@
+[
+  {
+    "type": "node",
+    "id": 316636515,
+    "lat": 17.4171696,
+    "lon": 78.5255149,
+    "tags": {
+      "amenity": "library",
+      "name": "University Library"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 317759267,
+    "lat": 17.4513921,
+    "lon": 78.3792883,
+    "tags": {
+      "amenity": "theatre",
+      "name": "Shilpa Kala Vedika",
+      "name:te": "శిల్ప కళా వేదిక",
+      "tourism": "attraction"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 317759720,
+    "lat": 17.4526547,
+    "lon": 78.3779737,
+    "tags": {
+      "amenity": "arts_centre",
+      "name": "Shilparamam Crafts Village",
+      "tourism": "attraction",
+      "wheelchair": "yes"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 321710524,
+    "lat": 17.4409014,
+    "lon": 78.4985547,
+    "tags": {
+      "historic": "monument",
+      "name": "Clock Tower",
+      "name:te": "క్లాక్ టవర్"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 321714892,
+    "lat": 17.4250205,
+    "lon": 78.5332669,
+    "tags": {
+      "amenity": "cinema",
+      "name": "Aradhana Theatre"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 324867372,
+    "lat": 17.4148929,
+    "lon": 78.5312484,
+    "tags": {
+      "amenity": "theatre",
+      "name": "Tagore Auditorium"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 324867689,
+    "lat": 17.4180798,
+    "lon": 78.52533,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "saraswathi temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 343668443,
+    "lat": 17.4361795,
+    "lon": 78.5177271,
+    "tags": {
+      "amenity": "place_of_worship",
+      "created_by": "Potlatch 0.10f",
+      "denomination": "Jacobite Christian",
+      "name": "MGJSO Church Mettuguda",
+      "religion": "christian"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 344033748,
+    "lat": 17.4233743,
+    "lon": 78.4278935,
+    "tags": {
+      "amenity": "cinema",
+      "brand": "PVR Cinemas",
+      "brand:short": "PVR",
+      "brand:wikidata": "Q3359908",
+      "name": "PVR Cinemas",
+      "name:te": "సినీ మాక్స్"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 344619886,
+    "lat": 17.4475911,
+    "lon": 78.4490768,
+    "tags": {
+      "amenity": "place_of_worship",
+      "junction": "yes",
+      "name": "Yellamma Temple Balkampet;Balkampet Yellamma Temple Jn",
+      "religion": "hindu",
+      "wikidata": "Q4851060",
+      "wikipedia": "en:Balkampet Yellamma Temple"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 349002531,
+    "lat": 17.445824,
+    "lon": 78.3493093,
+    "tags": {
+      "amenity": "library",
+      "internet_access": "yes",
+      "internet_access:fee": "customers",
+      "name": "IIIT-H Library",
+      "opening_hours": "Mo-Sa 09:00-23:50; Su 09:00-17:00; PH 09:00-17:00",
+      "website": "https://library.iiit.ac.in/"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 349257452,
+    "lat": 17.4399609,
+    "lon": 78.3958845,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Anjaneya Swami Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 354534763,
+    "lat": 17.4677936,
+    "lon": 78.4293808,
+    "tags": {
+      "addr:city": "Hyderabad",
+      "addr:postcode": "500018",
+      "addr:street": "Moosapet Road",
+      "air_conditioning": "yes",
+      "amenity": "cinema",
+      "name": "Sri Ramulu",
+      "wheelchair": "no"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 354534764,
+    "lat": 17.4675083,
+    "lon": 78.4282422,
+    "tags": {
+      "addr:city": "Hyderabad",
+      "addr:postcode": "500018",
+      "addr:street": "Moosapet Road",
+      "air_conditioning": "yes",
+      "amenity": "cinema",
+      "brand": "Asian",
+      "name": "Chandrakala (Asian Lakshmikala)",
+      "wheelchair": "no"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 354534765,
+    "lat": 17.4678001,
+    "lon": 78.428118,
+    "tags": {
+      "addr:city": "Hyderabad",
+      "addr:postcode": "500018",
+      "addr:street": "Moosapet Road",
+      "air_conditioning": "yes",
+      "amenity": "cinema",
+      "brand": "Asian",
+      "name": "Shashikala",
+      "wheelchair": "no"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 534091115,
+    "lat": 17.4387374,
+    "lon": 78.4481862,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Durga Devi temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 582824405,
+    "lat": 17.4395738,
+    "lon": 78.4985352,
+    "tags": {
+      "amenity": "cinema",
+      "name": "Prashanth theatre",
+      "name:en": "Prashanth theatre",
+      "name:te": "ప్రశాంత్ థియేటర్"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 582824598,
+    "lat": 17.4404726,
+    "lon": 78.4935719,
+    "tags": {
+      "amenity": "cinema",
+      "name": "Manju Cinema",
+      "name:te": "మంజు సినిమా"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 626896781,
+    "lat": 17.3661923,
+    "lon": 78.4871894,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Darga kamli wale shah sahab",
+      "place_of_worship": "shrine",
+      "religion": "muslim"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 626896827,
+    "lat": 17.3618204,
+    "lon": 78.4864271,
+    "tags": {
+      "historic": "monument",
+      "name": "shaik faiz kaman"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 626896927,
+    "lat": 17.3664054,
+    "lon": 78.4876612,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Masjid",
+      "religion": "muslim"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 626897145,
+    "lat": 17.3647875,
+    "lon": 78.4859446,
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "mosque",
+      "name": "Kali Masjid",
+      "religion": "muslim"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 626897146,
+    "lat": 17.3659958,
+    "lon": 78.4848073,
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "mosque",
+      "denomination": "sunni",
+      "name": "Osmania Masjid",
+      "religion": "muslim"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 626897149,
+    "lat": 17.365963,
+    "lon": 78.4851122,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Mandir",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 626897172,
+    "lat": 17.3674697,
+    "lon": 78.489472,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Saath Gudi",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 626897183,
+    "lat": 17.3675926,
+    "lon": 78.4855238,
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "sunni",
+      "name": "masjid",
+      "religion": "muslim"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 626897186,
+    "lat": 17.3659363,
+    "lon": 78.48602,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Noor masjid",
+      "religion": "muslim"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 626897219,
+    "lat": 17.365234,
+    "lon": 78.4848029,
+    "tags": {
+      "leisure": "park",
+      "name": "Manju miya tabela playground"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 626897221,
+    "lat": 17.365647,
+    "lon": 78.4858885,
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "shia",
+      "name": "alawa bibi",
+      "religion": "muslim",
+      "tourism": "attraction"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 626897250,
+    "lat": 17.365044,
+    "lon": 78.4832699,
+    "tags": {
+      "name": "The Nizam's Museum",
+      "name:te": "నిజాం మ్యూజియం",
+      "opening_hours": "Mo-Su 10:00-17:00",
+      "tourism": "museum",
+      "website": "https://www.hehnmh.com/"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 626897361,
+    "lat": 17.3762148,
+    "lon": 78.4739176,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Afzalgunj Masjid",
+      "religion": "muslim"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 626897372,
+    "lat": 17.3762475,
+    "lon": 78.4750979,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Jamia Masjid",
+      "religion": "muslim"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 626897420,
+    "lat": 17.3741567,
+    "lon": 78.4782198,
+    "tags": {
+      "amenity": "library",
+      "historic": "archaeological_site",
+      "name": "State Library",
+      "operator": "Telangana",
+      "operator:type": "public",
+      "wikidata": "Q3764208",
+      "wikimedia_commons": "Category:State Central Library, Hyderabad",
+      "wikipedia": "en:State Central Library, Hyderabad"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 626897472,
+    "lat": 17.3691653,
+    "lon": 78.4721325,
+    "tags": {
+      "amenity": "courthouse",
+      "historic": "monument",
+      "name": "High Court of Telangana",
+      "name:te": "తెలంగాణ రాష్ట్ర ఉన్నత న్యాయస్థానం",
+      "website": "http://hc.ts.nic.in/",
+      "wikidata": "Q3276107",
+      "wikipedia": "en:Telangana High Court"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 626897612,
+    "lat": 17.3651254,
+    "lon": 78.4753123,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "khader Yar Khan Masjid",
+      "name:te": "మాస్జిద్, ఖాదర్ యార్ ఖాన్",
+      "religion": "muslim"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 626901359,
+    "lat": 17.3679221,
+    "lon": 78.4851691,
+    "tags": {
+      "historic": "monument",
+      "name": "Dabeerpura darwaza"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 626910659,
+    "lat": 17.3684762,
+    "lon": 78.4757391,
+    "tags": {
+      "historic": "monument",
+      "name": "madina building;Ajfan",
+      "name:en": "Ajfan",
+      "shop": "supermarket"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 626926304,
+    "lat": 17.3618794,
+    "lon": 78.4709135,
+    "tags": {
+      "historic": "monument",
+      "name": "Mehboob Chowk Clock Tower",
+      "wikidata": "Q24906388"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 626940816,
+    "lat": 17.3845613,
+    "lon": 78.4750497,
+    "tags": {
+      "historic": "monument",
+      "name": "Mozam Jahi Market Clock Tower",
+      "shop": "moazzam jahi market"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 626940817,
+    "lat": 17.38675,
+    "lon": 78.4704712,
+    "tags": {
+      "name": "Exhibition Grounds",
+      "shop": "outdoor",
+      "tourism": "attraction"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 626940819,
+    "lat": 17.3883677,
+    "lon": 78.4710398,
+    "tags": {
+      "historic": "monument",
+      "name": "gandhi bhavan"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 634133533,
+    "lat": 17.4058841,
+    "lon": 78.5114906,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Vidyanagar Mosque",
+      "religion": "muslim"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 634135188,
+    "lat": 17.4054697,
+    "lon": 78.4965246,
+    "tags": {
+      "amenity": "cinema",
+      "name": "Odeon complex"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 635577218,
+    "lat": 17.4007635,
+    "lon": 78.50734,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Shanker Mutt",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 635722558,
+    "lat": 17.4089284,
+    "lon": 78.5109277,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "JanaPriya Hanuman Temple"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 636456848,
+    "lat": 17.3992059,
+    "lon": 78.4928268,
+    "tags": {
+      "amenity": "cinema",
+      "name": "Venkatesa Cinema Theatre"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 668646039,
+    "lat": 17.4850701,
+    "lon": 78.3974653,
+    "tags": {
+      "name": "MIG-740, Sai Vihar Appartment",
+      "tourism": "information"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 677298887,
+    "lat": 17.3961081,
+    "lon": 78.489357,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Baptist Church",
+      "religion": "christian"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 677300639,
+    "lat": 17.3980757,
+    "lon": 78.492579,
+    "tags": {
+      "amenity": "cinema",
+      "name": "Deepak Theatre"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 691187504,
+    "lat": 17.4630556,
+    "lon": 78.5623456,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Shri Mahalakshmi Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 726715622,
+    "lat": 17.406221,
+    "lon": 78.4789192,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Tirumala Tirupati Devastanam Temple",
+      "name:te": "తిరుమల తిరుపతి దేవస్థానం టెంపుల్",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 726751707,
+    "lat": 17.4143801,
+    "lon": 78.4808321,
+    "tags": {
+      "name": "Snow world",
+      "tourism": "attraction"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 727183028,
+    "lat": 17.4129315,
+    "lon": 78.4782789,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Katta Maisamma Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 728852369,
+    "lat": 17.3994472,
+    "lon": 78.4689612,
+    "tags": {
+      "name": "Horticulture Dept and Museum",
+      "tourism": "museum"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 728853927,
+    "lat": 17.3953109,
+    "lon": 78.4690741,
+    "tags": {
+      "amenity": "theatre",
+      "name": "Lalita Kala Thoranam",
+      "name:te": "లలిత కళా తోరణం"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 771240788,
+    "lat": 17.4110482,
+    "lon": 78.4974754,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Hebron Church"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 771240789,
+    "lat": 17.4146824,
+    "lon": 78.4981191,
+    "tags": {
+      "amenity": "cinema",
+      "name": "Sri Sai Raja theatre"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 813571801,
+    "lat": 17.4349662,
+    "lon": 78.5199424,
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "catholic",
+      "name": "St. Anthony's Shrine",
+      "religion": "christian"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 817353672,
+    "lat": 17.443726,
+    "lon": 78.4725554,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Spanish Mosque",
+      "religion": "muslim",
+      "wikidata": "Q7573247",
+      "wikipedia": "en:Spanish Mosque"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 886337163,
+    "lat": 17.442076,
+    "lon": 78.5055212,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "ISKCON",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 886354211,
+    "lat": 17.437684,
+    "lon": 78.5046055,
+    "tags": {
+      "historic": "memorial",
+      "memorial": "statue",
+      "name": "Mother Teresa Statue"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 890312487,
+    "lat": 17.418803,
+    "lon": 78.4484007,
+    "tags": {
+      "amenity": "cinema",
+      "brand": "INOX Leisure",
+      "brand:wikidata": "Q5972349",
+      "name": "INOX Cinema",
+      "name:te": "ఐనాక్స్ సినిమా",
+      "short_name": "INOX"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 893195075,
+    "lat": 17.3989642,
+    "lon": 78.4156737,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Mosque",
+      "religion": "muslim"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 1038351374,
+    "lat": 17.3861153,
+    "lon": 78.4763073,
+    "tags": {
+      "amenity": "cinema",
+      "name": "Ramakrishna Theatre"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 1050803657,
+    "lat": 17.4639733,
+    "lon": 78.4750757,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "nallapochamma temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 1050823758,
+    "lat": 17.4615819,
+    "lon": 78.4960307,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Hanuman Temple",
+      "name:te": "హనుమాన్ గుడి",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 1152688360,
+    "lat": 17.3924961,
+    "lon": 78.5153644,
+    "tags": {
+      "amenity": "theatre",
+      "name": "Sree ramana 35mm"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 1152749167,
+    "lat": 17.3923489,
+    "lon": 78.5170224,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 1152757614,
+    "lat": 17.397373,
+    "lon": 78.5371416,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 1215747408,
+    "lat": 17.4634711,
+    "lon": 78.3643788,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Church",
+      "religion": "christian"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 1215790315,
+    "lat": 17.4678559,
+    "lon": 78.3673463,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Mosque",
+      "religion": "muslim"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 1242130290,
+    "lat": 17.4415991,
+    "lon": 78.4318023,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Saibaba Temple",
+      "name:en": "Sai Baba Temple",
+      "name:hi": "साईं बाबा मंदिर",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 1242158840,
+    "lat": 17.4627059,
+    "lon": 78.475642,
+    "tags": {
+      "addr:city": "New bowenpally",
+      "addr:postcode": "500011",
+      "addr:street": "Seven temples road",
+      "amenity": "place_of_worship",
+      "name": "Seven temples",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 1242158851,
+    "lat": 17.4637221,
+    "lon": 78.451276,
+    "tags": {
+      "amenity": "cinema",
+      "designation": "Talkies",
+      "name": "Vimal Theater"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 1242162789,
+    "lat": 17.445385,
+    "lon": 78.4493677,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 1306281994,
+    "lat": 17.481421,
+    "lon": 78.5156661,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "EME Gurudwara",
+      "religion": "sikh"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 1333758087,
+    "lat": 17.4748797,
+    "lon": 78.4987109,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 1333758090,
+    "lat": 17.4663343,
+    "lon": 78.5056203,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Hanuman Temple",
+      "name:te": "హనుమాన్ గుడి",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 1334686113,
+    "lat": 17.4403672,
+    "lon": 78.4473368,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Vinayaka Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 1334695975,
+    "lat": 17.4210695,
+    "lon": 78.4472747,
+    "tags": {
+      "amenity": "arts_centre",
+      "name": "Lamakaan",
+      "website": "https://www.lamakaan.com/"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 1344433412,
+    "lat": 17.4954057,
+    "lon": 78.3533726,
+    "tags": {
+      "amenity": "cinema",
+      "cinema:3D": "yes",
+      "name": "Cine Town & Laxmi 70 MM",
+      "old_name": "Talkie Town",
+      "screen": "3"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 1361329785,
+    "lat": 17.4285479,
+    "lon": 78.5379433,
+    "tags": {
+      "leisure": "beach_resort",
+      "name": "Tarnaka",
+      "name:te": "తార్నాక",
+      "wikidata": "Q7686384",
+      "wikimedia_commons": "Category:Tarnaka",
+      "wikipedia": "en:Tarnaka"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 1409718843,
+    "lat": 17.4245899,
+    "lon": 78.4521701,
+    "tags": {
+      "designation": "sff",
+      "name": "ultimus",
+      "source": "sfsf",
+      "tourism": "museum"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 1435298001,
+    "lat": 17.4513131,
+    "lon": 78.5361396,
+    "tags": {
+      "amenity": "theatre",
+      "name": "Raghavendra Theatre"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 1435322431,
+    "lat": 17.4504514,
+    "lon": 78.53124,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Sai Baba Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 1435322432,
+    "lat": 17.4497477,
+    "lon": 78.5369263,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Mahan Kali temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 1435322439,
+    "lat": 17.4505665,
+    "lon": 78.5313687,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Sai Baba Kalyana Mandapam",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 1435322441,
+    "lat": 17.4509324,
+    "lon": 78.5347403,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "ChandraMouleeshwara Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 1437365110,
+    "lat": 17.4518905,
+    "lon": 78.5299783,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Bhavani Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 1438252859,
+    "lat": 17.4463533,
+    "lon": 78.5354401,
+    "tags": {
+      "amenity": "cinema",
+      "name": "Sai Ram Theatre"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 1438252865,
+    "lat": 17.4488251,
+    "lon": 78.5306175,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Bhavani Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 1438252869,
+    "lat": 17.4484157,
+    "lon": 78.530301,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Brahmam Gari Templa",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 1474078034,
+    "lat": 17.4715091,
+    "lon": 78.5392512,
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "Amma Temple",
+      "name": "Muudu Gudulu",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 1474078037,
+    "lat": 17.4721794,
+    "lon": 78.538865,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Kasi Viswanadha Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 1475760971,
+    "lat": 17.4085011,
+    "lon": 78.5100507,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Abhaya Anjaneya Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 1502798798,
+    "lat": 17.4458873,
+    "lon": 78.5076449,
+    "tags": {
+      "amenity": "library",
+      "name": "French Library"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 1534935432,
+    "lat": 17.4238,
+    "lon": 78.4263912,
+    "tags": {
+      "amenity": "cinema",
+      "name": "Prasads Lab preview Theatre"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 1595862680,
+    "lat": 17.3969183,
+    "lon": 78.4945424,
+    "tags": {
+      "leisure": "park",
+      "name": "Municipal Park"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 1623389085,
+    "lat": 17.4357658,
+    "lon": 78.3603085,
+    "tags": {
+      "addr:housenumber": "Survey Number 91",
+      "addr:postcode": "Hyderabad – 500032",
+      "addr:street": "Swecha Road",
+      "amenity": "library",
+      "check_date:opening_hours": "2022-05-20",
+      "internet_access:fee": "yes",
+      "name": "Sundarayya Vignana Kendram",
+      "name:etymology:wikidata": "Q1846150",
+      "name:te": "సుందరయ్య విజ్ఞాన కేంద్రం",
+      "opening_hours": "Mo-Sa 10:00-17:00",
+      "short_name": "SVK",
+      "website": "https://sundarayya.org/",
+      "wheelchair": "no",
+      "wikipedia": "en:Sundarayya Vignana Kendram"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 1702835979,
+    "lat": 17.4833939,
+    "lon": 78.3473316,
+    "tags": {
+      "name": "Kinige Digital Technologies Pvt Ltd",
+      "tourism": "information"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 1842293609,
+    "lat": 17.4953836,
+    "lon": 78.4059465,
+    "tags": {
+      "amenity": "place_of_worship",
+      "check_date": "2024-03-16",
+      "name": "Immaculate Conception Church",
+      "religion": "christian"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 1883484106,
+    "lat": 17.4302638,
+    "lon": 78.4484072,
+    "tags": {
+      "addr:city": "Hyderabad",
+      "addr:state": "Telangana",
+      "addr:street": "Ameerpet Road",
+      "air_conditioning": "yes",
+      "amenity": "cinema",
+      "name": "Platinum Cinemas"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 1905171010,
+    "lat": 17.4673137,
+    "lon": 78.428333,
+    "tags": {
+      "addr:city": "Hyderabad",
+      "addr:postcode": "500018",
+      "addr:street": "Moosapet Road",
+      "air_conditioning": "yes",
+      "amenity": "cinema",
+      "brand": "Asian",
+      "name": "Lakshmikala",
+      "wheelchair": "no"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 1985561838,
+    "lat": 17.4416129,
+    "lon": 78.3603276,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Indra Nagar Mosque",
+      "religion": "muslim"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 2062731144,
+    "lat": 17.4304737,
+    "lon": 78.4280774,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 2212440901,
+    "lat": 17.4230971,
+    "lon": 78.3432318,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Ranganadhaswamy Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 2217950163,
+    "lat": 17.3351662,
+    "lon": 78.5852597,
+    "tags": {
+      "leisure": "nature_reserve",
+      "name": "Mahavir Nischalvan Eco Tourism"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 2217960486,
+    "lat": 17.3677496,
+    "lon": 78.5363059,
+    "tags": {
+      "amenity": "cinema",
+      "name": "Miraj Cinemas Shalini"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 2217960488,
+    "lat": 17.3673912,
+    "lon": 78.5361718,
+    "tags": {
+      "amenity": "cinema",
+      "name": "Miraj cinemas Shivani",
+      "payment:cash": "yes",
+      "payment:credit_cards": "yes",
+      "payment:debit_cards": "yes"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 2217968822,
+    "lat": 17.4119618,
+    "lon": 78.3955516,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Hanuman",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 2362861719,
+    "lat": 17.361777,
+    "lon": 78.491824,
+    "tags": {
+      "leisure": "park",
+      "name": "sanjeev park"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 2371734542,
+    "lat": 17.4955924,
+    "lon": 78.3910702,
+    "tags": {
+      "addr:housenumber": "JNTUHCEH",
+      "addr:street": "WAY TO CRC",
+      "amenity": "library",
+      "check_date": "2024-03-16",
+      "name": "jntu library"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 2388304337,
+    "lat": 17.4428439,
+    "lon": 78.4398896,
+    "tags": {
+      "leisure": "MCH_park",
+      "name": "MCH Park"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 2412757405,
+    "lat": 17.3722562,
+    "lon": 78.5406441,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Kanyaka Parameshwari Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 2412769804,
+    "lat": 17.3764892,
+    "lon": 78.557678,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Sri Renuka Tellamma Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 2412799920,
+    "lat": 17.3692634,
+    "lon": 78.5333548,
+    "tags": {
+      "historic": "memorial",
+      "name": "Shivaji Statue"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 2418713974,
+    "lat": 17.323929,
+    "lon": 78.4798662,
+    "tags": {
+      "addr:housename": "Chandrayan Gutta Main Road",
+      "amenity": "place_of_worship",
+      "name": "Ramalayam(Sri Rama Mandiram)",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 2418714856,
+    "lat": 17.3235693,
+    "lon": 78.4791594,
+    "tags": {
+      "addr:housename": "Keshavagiri Hyderabad",
+      "amenity": "place_of_worship",
+      "name": "Chenna Keshava Swami Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 2418791411,
+    "lat": 17.442546,
+    "lon": 78.4414688,
+    "tags": {
+      "historic": "monument",
+      "name": "Umesh Chandra Statue",
+      "name:te": "ఉమేష్ చంద్ర విగ్రహం"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 2429323037,
+    "lat": 17.3650252,
+    "lon": 78.5470862,
+    "tags": {
+      "addr:city": "Hyderabad",
+      "addr:postcode": "500102",
+      "addr:street": "Plot No. 52-55, Vasavi Colony, Kothapet",
+      "amenity": "place_of_worship",
+      "name": "Asthalaxmi Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 2429327526,
+    "lat": 17.367823,
+    "lon": 78.527249,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Sai Baba Temple",
+      "religion": "hindu",
+      "wheelchair": "yes",
+      "wikidata": "Q7399777",
+      "wikipedia": "en:Sai Baba Temple, Dilsukhnagar"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 2429327991,
+    "lat": 17.3679685,
+    "lon": 78.5266084,
+    "tags": {
+      "amenity": "cinema",
+      "name": "Megha Theatre"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 2429870081,
+    "lat": 17.3688036,
+    "lon": 78.5258281,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Kanaka Durga Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 2429873762,
+    "lat": 17.3666561,
+    "lon": 78.5256394,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Satya Narayana Swamy Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 2429900519,
+    "lat": 17.338962,
+    "lon": 78.5657429,
+    "tags": {
+      "amenity": "cinema",
+      "name": "Vishnu Theatre",
+      "name:te": "విష్ణు థియేటర్"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 2429901778,
+    "lat": 17.3283415,
+    "lon": 78.5697346,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Venkateshwara Swamy Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 2429982727,
+    "lat": 17.3833236,
+    "lon": 78.4781514,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Hanuman Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 2430216386,
+    "lat": 17.3653989,
+    "lon": 78.552827,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Sai Baba Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 2431768432,
+    "lat": 17.3237775,
+    "lon": 78.5693006,
+    "tags": {
+      "leisure": "park",
+      "name": "HUDA Park"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 2431770746,
+    "lat": 17.3357552,
+    "lon": 78.5735654,
+    "tags": {
+      "addr:city": "hyderabad",
+      "addr:postcode": "500070",
+      "amenity": "cinema",
+      "name": "Sushma Theatre",
+      "payment:cash": "yes"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 2431930176,
+    "lat": 17.4026644,
+    "lon": 78.5140372,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Shivam Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 2431975001,
+    "lat": 17.3697927,
+    "lon": 78.5569175,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Venkateshwara Swamy Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 2432032114,
+    "lat": 17.3677316,
+    "lon": 78.5499916,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Hanuman Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 2445861721,
+    "lat": 17.3738968,
+    "lon": 78.517442,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Venkateshwara Swamy Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  },
+  {
+    "type": "node",
+    "id": 2445869192,
+    "lat": 17.372983,
+    "lon": 78.5129939,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Ganesh Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "hyderabad",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Hyderabad"
+  }
+]

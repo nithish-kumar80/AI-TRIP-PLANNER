@@ -1,0 +1,1538 @@
+[
+  {
+    "type": "node",
+    "id": 198742827,
+    "lat": 15.4900856,
+    "lon": 73.828682,
+    "tags": {
+      "name": "Panjim city view point",
+      "tourism": "viewpoint"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 493623284,
+    "lat": 15.2756507,
+    "lon": 73.9137265,
+    "tags": {
+      "name": "Colva Beach",
+      "natural": "beach"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 535919700,
+    "lat": 15.5688874,
+    "lon": 73.75334,
+    "tags": {
+      "name": "Blue Whale Waterpark",
+      "tourism": "theme_park"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 1002534290,
+    "lat": 15.3351328,
+    "lon": 73.8929125,
+    "tags": {
+      "name": "Arossim Beach",
+      "natural": "beach",
+      "wikidata": "Q26794004"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 1241285499,
+    "lat": 15.3156176,
+    "lon": 74.3142493,
+    "tags": {
+      "name": "Dudhsagar Falls",
+      "name:en": "Dudhsagar Falls",
+      "name:hi": "दूधसागर झरना - गोवा",
+      "name:kn": "ದೂದ್ ಸಾಗರ್ ಜಲಪಾತ",
+      "name:ru": "Водопад Дудхсагар",
+      "name:tr": "Dudhsagar şelalesi",
+      "tourism": "attraction",
+      "waterway": "waterfall",
+      "wikidata": "Q37545"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 1321177645,
+    "lat": 15.5464076,
+    "lon": 73.7604902,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "St. John's Church",
+      "religion": "christian"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 1328303571,
+    "lat": 15.4505271,
+    "lon": 73.8030641,
+    "tags": {
+      "artist_name": "Baroness Yrse Von Leistner",
+      "artwork_type": "statue",
+      "name": "Dona paula",
+      "start_date": "1969",
+      "tourism": "artwork",
+      "wikipedia": "en:Dona Paula"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 1328544701,
+    "lat": 15.4897333,
+    "lon": 73.8284959,
+    "tags": {
+      "addr:city": "Panaji",
+      "addr:postcode": "403001",
+      "historic": "monument",
+      "name": "Hanuman temple"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 1633026612,
+    "lat": 15.32496,
+    "lon": 73.9133496,
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "roman_catholic",
+      "name": "Our Lady of Lourdes Church, Utorda",
+      "religion": "christian"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 1633044071,
+    "lat": 15.5177986,
+    "lon": 73.7773909,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Church of the Rosary",
+      "religion": "christian",
+      "source": "John the Map"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 1656632372,
+    "lat": 15.5910016,
+    "lon": 73.810142,
+    "tags": {
+      "alt_name": "Hanuman Temple",
+      "amenity": "place_of_worship",
+      "name": "Shree Maharudhra Sansthan Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 1656645661,
+    "lat": 15.5905854,
+    "lon": 73.8098735,
+    "tags": {
+      "amenity": "theatre",
+      "name": "Hanuman Natyagraha"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 1658757838,
+    "lat": 15.513065,
+    "lon": 73.7698233,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Shri Shantadurga Temple",
+      "religion": "hindu",
+      "wikidata": "Q7489022"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 1688110026,
+    "lat": 15.5135064,
+    "lon": 73.7656839,
+    "tags": {
+      "description": "This is the home of Laxmi the Elephant",
+      "elephant": "yes",
+      "name": "Laxmi's Home",
+      "tourism": "attraction"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 1707049649,
+    "lat": 15.4098607,
+    "lon": 74.2646383,
+    "tags": {
+      "name": "Sunset Point",
+      "name:kn": "ಸೂರ್ಯಸ್ತ ನೋಟದಕೋನ",
+      "tourism": "viewpoint"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 1715059925,
+    "lat": 15.2486329,
+    "lon": 73.9269784,
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "catholic",
+      "name": "Holy Cross Chapell",
+      "religion": "christian"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 1806109051,
+    "lat": 15.1861073,
+    "lon": 73.9471262,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Holy Cross Church",
+      "religion": "christian"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 1874261787,
+    "lat": 15.3201271,
+    "lon": 74.3031452,
+    "tags": {
+      "name": "Dudhsagar Old Station",
+      "name:kn": "ದೂದಸಾಗರ್ ಹಳೆನಿಲ್ದಾಣ",
+      "tourism": "attraction"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 2082435927,
+    "lat": 15.2763603,
+    "lon": 73.9814325,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Maruthi Mandhir",
+      "religion": "hindu"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 2084208092,
+    "lat": 15.608287,
+    "lon": 73.735151,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Siddeshwar Devasthan",
+      "religion": "hindu"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 2195478444,
+    "lat": 15.70205,
+    "lon": 73.700887,
+    "tags": {
+      "name": "Banian Tree",
+      "natural": "tree",
+      "tourism": "attraction"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 2555258149,
+    "lat": 15.545141,
+    "lon": 73.7566531,
+    "tags": {
+      "historic": "memorial",
+      "name": "Dayanand Bandodkar Statue"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 2614415019,
+    "lat": 15.2556738,
+    "lon": 74.0518532,
+    "tags": {
+      "name": "Fernandes Heritage Home",
+      "tourism": "museum"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 2614415496,
+    "lat": 14.9671672,
+    "lon": 74.1583819,
+    "tags": {
+      "name": "Treetop",
+      "name:kn": "ಟ್ರೀಟಾಪ್",
+      "natural": "tree",
+      "tourism": "viewpoint"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 2614415697,
+    "lat": 14.9537077,
+    "lon": 74.1523166,
+    "tags": {
+      "name": "Bela Lake",
+      "name:en": "Bela",
+      "name:kn": "ಬೆಲ ಕೆರೆ",
+      "tourism": "viewpoint"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 2634447589,
+    "lat": 15.3009985,
+    "lon": 73.9205595,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Our Lady of Remedios",
+      "religion": "christian"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 2634447620,
+    "lat": 15.3196353,
+    "lon": 73.898934,
+    "tags": {
+      "name": "Utorda Beach",
+      "name:ru": "Уторда",
+      "natural": "beach"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 2635792322,
+    "lat": 15.2079045,
+    "lon": 73.9326021,
+    "tags": {
+      "name": "Fatrade Beach",
+      "natural": "beach"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 2635792802,
+    "lat": 15.2321443,
+    "lon": 73.9259238,
+    "tags": {
+      "name": "Varca Beach",
+      "natural": "beach"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 2637221112,
+    "lat": 15.2931923,
+    "lon": 73.9077452,
+    "tags": {
+      "name": "Betalbatim Beach",
+      "natural": "beach",
+      "wikidata": "Q26793788"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 2637221317,
+    "lat": 15.2006619,
+    "lon": 73.9345138,
+    "tags": {
+      "name": "Zalor Beach",
+      "natural": "beach"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 2639990588,
+    "lat": 15.5104369,
+    "lon": 73.7692844,
+    "tags": {
+      "addr:city": "Candolim",
+      "addr:housenumber": "134 (8/2)",
+      "addr:postcode": "403515",
+      "addr:street": "Fort Aguada Road / Aguada - Siolim Road",
+      "amenity": "place_of_worship",
+      "name": "Povitr Khuris",
+      "religion": "christian"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 2656687942,
+    "lat": 15.5595766,
+    "lon": 73.7537404,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Our Lady of Candelaria Chapel",
+      "religion": "christian"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 2660025329,
+    "lat": 15.5440425,
+    "lon": 73.7651176,
+    "tags": {
+      "historic": "memorial",
+      "memorial": "statue",
+      "name": "Dr. Jack de Sequeira"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 2663467231,
+    "lat": 15.2137606,
+    "lon": 73.9394567,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Sait Roque Church",
+      "name:en": "Saint Roque Church",
+      "religion": "christian"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 2671908695,
+    "lat": 15.0605725,
+    "lon": 73.9702025,
+    "tags": {
+      "email": "sonecacola@gmail.com",
+      "fee": "yes",
+      "leisure": "beach_resort",
+      "name": "Soneca Cola Beach Resort",
+      "phone": "+91 9823056261",
+      "website": "https://sonecacolabeach.com/"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 2675636004,
+    "lat": 15.5618883,
+    "lon": 73.7647683,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Sti Ganesh Mandir",
+      "religion": "hindu"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 2675636089,
+    "lat": 15.6616161,
+    "lon": 73.7361198,
+    "tags": {
+      "amenity": "place_of_worship",
+      "check_date": "2026-02-01",
+      "name": "Bhagwati Devi Temple",
+      "name:en": "Bhagwati Devi Temple",
+      "name:mr": "भगवती देवी देऊळ",
+      "religion": "hindu"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 2695042472,
+    "lat": 15.2448443,
+    "lon": 73.9719767,
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "chapel",
+      "name": "St. Francis",
+      "religion": "christian"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 2713529728,
+    "lat": 15.4297676,
+    "lon": 74.012586,
+    "tags": {
+      "attraction": "butterfly garden",
+      "name": "Mystic Meadows - A conservatory for Bees , Birds & Butterflies",
+      "tourism": "attraction",
+      "website": "http://www.bcogoa.org/"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 2714781658,
+    "lat": 15.0886314,
+    "lon": 73.9216425,
+    "tags": {
+      "castle_type": "fortress",
+      "historic": "castle",
+      "name": "Cabo de Rama",
+      "name:en": "Cabo de Rama",
+      "opening_hours": "Mo-Su 09:00-17:30",
+      "wikidata": "Q5015741",
+      "wikipedia:en": "Cabo_de_Rama"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 2782653563,
+    "lat": 15.5007398,
+    "lon": 73.8294385,
+    "tags": {
+      "artist_name": "Ramchandra Pandurang Kamat",
+      "artwork_type": "statue",
+      "name": "Abade Faria Statue",
+      "tourism": "artwork"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 2997326053,
+    "lat": 15.4422791,
+    "lon": 73.9186701,
+    "tags": {
+      "name": "Ponso",
+      "tourism": "attraction"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 3248797373,
+    "lat": 15.6928174,
+    "lon": 73.6988541,
+    "tags": {
+      "name": "Arambol Beach Mountain",
+      "tourism": "viewpoint",
+      "wheelchair": "yes"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 3248805261,
+    "lat": 15.6933618,
+    "lon": 73.6994459,
+    "tags": {
+      "name": "Arambol Beach Mountain",
+      "tourism": "viewpoint"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 3250334751,
+    "lat": 15.4792218,
+    "lon": 73.8123645,
+    "tags": {
+      "amenity": "library",
+      "name": "Gramp's Library"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 3278226461,
+    "lat": 14.9611593,
+    "lon": 74.1512517,
+    "tags": {
+      "leisure": "nature_reserve",
+      "name": "Cotigao Wildlife Sanctuary",
+      "name:kn": "ಕೊಟಗಾವ್ ವನ್ಯಜೀವಿ ಅಭಯಾರಣ್ಯ"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 3289901179,
+    "lat": 15.3010263,
+    "lon": 73.9050309,
+    "tags": {
+      "name": "Sunset Beach",
+      "natural": "beach"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 3734348073,
+    "lat": 15.4110807,
+    "lon": 73.786133,
+    "tags": {
+      "addr:city": "vasco-da-gama",
+      "addr:postcode": "403804",
+      "amenity": "place_of_worship",
+      "denomination": "catholic",
+      "name": "Ancient Cross",
+      "name:ru": "Древний крест",
+      "religion": "christian"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 3766863251,
+    "lat": 15.4046078,
+    "lon": 74.0032155,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "maruti temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 3766863256,
+    "lat": 15.4000644,
+    "lon": 74.0036071,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Zareshwar Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 3766893571,
+    "lat": 15.4068627,
+    "lon": 74.006815,
+    "tags": {
+      "alt_name": "Curti Mosque",
+      "amenity": "place_of_worship",
+      "building": "mosque",
+      "name": "Masjid-e-Noorani",
+      "religion": "muslim"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 3766893578,
+    "lat": 15.4135419,
+    "lon": 74.0103361,
+    "tags": {
+      "amenity": "cinema",
+      "name": "Jai Mahalasa Theatre"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 3766893595,
+    "lat": 15.3972481,
+    "lon": 74.0027281,
+    "tags": {
+      "amenity": "library",
+      "name": "Taluka Library"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 3766893608,
+    "lat": 15.3933437,
+    "lon": 74.0027556,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Saraswati Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 3799318434,
+    "lat": 15.3479781,
+    "lon": 73.9464745,
+    "tags": {
+      "name": "Udear Springs",
+      "source": "GPS",
+      "tourism": "attraction"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 3806476681,
+    "lat": 15.4989312,
+    "lon": 73.8209472,
+    "tags": {
+      "amenity": "cinema",
+      "name": "Screen 1"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 3961897363,
+    "lat": 15.3377046,
+    "lon": 74.2454975,
+    "tags": {
+      "name": "Elephant ride",
+      "tourism": "attraction"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4081386277,
+    "lat": 15.499887,
+    "lon": 73.8260698,
+    "tags": {
+      "historic": "memorial",
+      "name": "Martyr's Memorial",
+      "wikimedia_commons": "File:Martyrs'_Memorial_at_Azad_Maidan.jpg"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4084944490,
+    "lat": 15.6625368,
+    "lon": 73.7296538,
+    "tags": {
+      "name": "stone art",
+      "tourism": "artwork"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4107573504,
+    "lat": 15.533861,
+    "lon": 73.76765,
+    "tags": {
+      "name": "Art Chamber",
+      "tourism": "artwork"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4107601497,
+    "lat": 15.218943,
+    "lon": 73.97823,
+    "tags": {
+      "addr:street": "15.218943,73.97823",
+      "amenity": "place_of_worship",
+      "name": "St. Sebastian's Chapel",
+      "religion": "christian"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4109577090,
+    "lat": 15.271816,
+    "lon": 73.96569,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Carmelite Monastery",
+      "religion": "christian"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4111396389,
+    "lat": 15.270659,
+    "lon": 73.95793,
+    "tags": {
+      "amenity": "cinema",
+      "name": "Cine Lata"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4114503036,
+    "lat": 15.217188,
+    "lon": 73.96917,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Saint Anthony's Chapel Deussua",
+      "religion": "christian"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4143976095,
+    "lat": 15.1873618,
+    "lon": 74.0358421,
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "roman_catholic",
+      "name": "Our Lady of Pompeii Chapel",
+      "religion": "christian"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4230476993,
+    "lat": 15.27051,
+    "lon": 73.95501,
+    "tags": {
+      "name": "Shaikh Marbles and Artwork",
+      "tourism": "artwork"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4233031289,
+    "lat": 15.285036,
+    "lon": 73.97666,
+    "tags": {
+      "name": "Push Tours and Travels",
+      "tourism": "information"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4235120292,
+    "lat": 15.2910005,
+    "lon": 74.0070427,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "St. Rita's Church",
+      "religion": "christian"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4236943790,
+    "lat": 15.2748389,
+    "lon": 73.9571225,
+    "tags": {
+      "amenity": "library",
+      "name": "Gomant Vidya Niketan"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4236982493,
+    "lat": 15.3139614,
+    "lon": 73.9847343,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Our Lady Of Snow Church",
+      "religion": "christian"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4236997193,
+    "lat": 15.3197341,
+    "lon": 73.9842426,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Rayeshwar Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4237013791,
+    "lat": 15.326421,
+    "lon": 73.98989,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "St. Francis Xavier Chapel",
+      "religion": "christian"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4238756592,
+    "lat": 15.242618,
+    "lon": 74.03319,
+    "tags": {
+      "name": "Nagesh Gardens",
+      "tourism": "attraction"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4242322089,
+    "lat": 15.33023,
+    "lon": 73.95434,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Our Lady of Fatima Chapel",
+      "religion": "christian"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4246207851,
+    "lat": 15.3693073,
+    "lon": 74.0686948,
+    "tags": {
+      "amenity": "cinema",
+      "name": "SADW Theatres"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4247919589,
+    "lat": 15.271372,
+    "lon": 73.968155,
+    "tags": {
+      "amenity": "cinema",
+      "name": "Vishant"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4252577291,
+    "lat": 15.2406196,
+    "lon": 73.9411367,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Our Lady of Piety",
+      "religion": "christian"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4253973889,
+    "lat": 15.557472,
+    "lon": 73.7553,
+    "tags": {
+      "name": "Snow Park",
+      "tourism": "attraction"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4253995890,
+    "lat": 15.5004396,
+    "lon": 73.8253661,
+    "tags": {
+      "amenity": "arts_centre",
+      "name": "Institute Menezes Braganza",
+      "name:etymology:wikidata": "Q10321760",
+      "wikidata": "Q16847779"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4254510162,
+    "lat": 15.374475,
+    "lon": 73.91586,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Church of Our Lady of Livra Febres",
+      "religion": "christian"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4259954489,
+    "lat": 15.455168,
+    "lon": 73.80335,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Dona Paula Chapel",
+      "religion": "christian"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4263083222,
+    "lat": 15.406133,
+    "lon": 73.9799582,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Mahalaxmi",
+      "religion": "hindu"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4269208991,
+    "lat": 15.3741003,
+    "lon": 73.9259669,
+    "tags": {
+      "name": "Abyss Marine Fish Aquarium",
+      "tourism": "attraction"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4269324291,
+    "lat": 15.2798058,
+    "lon": 73.9625311,
+    "tags": {
+      "name": "Monte Hill Viewpoint",
+      "tourism": "viewpoint"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4270037210,
+    "lat": 15.2648205,
+    "lon": 73.9413442,
+    "tags": {
+      "name": "Goa Chitra museum",
+      "tourism": "museum",
+      "wikidata": "Q5575071"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4270038692,
+    "lat": 15.3208441,
+    "lon": 73.9416552,
+    "tags": {
+      "name": "Ashvek Vintage world- Car Museum",
+      "tourism": "museum"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4270045092,
+    "lat": 15.2831,
+    "lon": 73.9765,
+    "tags": {
+      "name": "Techspots",
+      "tourism": "museum"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4270094091,
+    "lat": 15.339523,
+    "lon": 73.9876,
+    "tags": {
+      "name": "Big Foot Cross Museum",
+      "tourism": "museum"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4270094790,
+    "lat": 15.339748,
+    "lon": 73.98668,
+    "tags": {
+      "name": "Ancestral Goa",
+      "tourism": "museum"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4271954996,
+    "lat": 15.307054,
+    "lon": 73.917244,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Holy Cross (Vollant)",
+      "religion": "christian"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4280234698,
+    "lat": 15.1969,
+    "lon": 73.97468,
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "catholic",
+      "name": "Holy Cross Chapel, Sucaldem",
+      "religion": "christian"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4280249127,
+    "lat": 15.158911,
+    "lon": 74.00164,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Mollagini Chapel",
+      "religion": "christian"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4280390294,
+    "lat": 15.203776,
+    "lon": 73.988174,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Our lady of Fatima",
+      "religion": "christian"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4280547189,
+    "lat": 15.258258,
+    "lon": 73.931379,
+    "tags": {
+      "name": "Castello's Tourist Nest",
+      "tourism": "information",
+      "wikidata": "Q111116958"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4283767989,
+    "lat": 15.31292,
+    "lon": 73.912254,
+    "tags": {
+      "name": "Carpe Diem",
+      "tourism": "artwork"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4283836891,
+    "lat": 15.5525614,
+    "lon": 74.0230363,
+    "tags": {
+      "alt_name": "Arvalem Caves;Pandava Caves",
+      "name": "Harvalem Caves",
+      "natural": "cave_entrance",
+      "tourism": "attraction",
+      "wikidata": "Q56458765"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4286097195,
+    "lat": 15.4064,
+    "lon": 73.89294,
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "roman_catholic",
+      "name": "Old Church Sancoale",
+      "religion": "christian"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4286102092,
+    "lat": 15.391062,
+    "lon": 73.90393,
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "catholic",
+      "name": "Blessed Joseph Vaz Sanctuary",
+      "religion": "christian"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4286103894,
+    "lat": 15.396201,
+    "lon": 73.829515,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "IPC EL-SHADDAI VASCO, GOA",
+      "religion": "christian"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4286285006,
+    "lat": 15.399947,
+    "lon": 73.814266,
+    "tags": {
+      "amenity": "cinema",
+      "name": "Z Square Complex"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4288374393,
+    "lat": 15.5872846,
+    "lon": 73.7604163,
+    "tags": {
+      "name": "Furtado House",
+      "tourism": "museum"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4288422920,
+    "lat": 15.501018,
+    "lon": 73.82824,
+    "tags": {
+      "name": "Dharohar: National Museum of Customs and GST",
+      "opening_hours": "Tu-Su 09:30-17:30",
+      "tourism": "museum"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4288424613,
+    "lat": 15.5256419,
+    "lon": 73.7953062,
+    "tags": {
+      "name": "Museum of Goa",
+      "tourism": "museum",
+      "wikidata": "Q24942720"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4288543790,
+    "lat": 15.4990063,
+    "lon": 73.8273494,
+    "tags": {
+      "amenity": "theatre",
+      "name": "National Theatre"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4288726489,
+    "lat": 15.248037,
+    "lon": 73.950905,
+    "tags": {
+      "name": "DSouza Mansion",
+      "tourism": "attraction"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4289909147,
+    "lat": 15.5122193,
+    "lon": 73.9604736,
+    "tags": {
+      "amenity": "cinema",
+      "name": "Marcela Cinema House"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4290164090,
+    "lat": 15.421878,
+    "lon": 74.080576,
+    "tags": {
+      "amenity": "theatre",
+      "name": "Kamala Theatre"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  },
+  {
+    "type": "node",
+    "id": 4290204489,
+    "lat": 15.516223,
+    "lon": 73.960923,
+    "tags": {
+      "amenity": "cinema",
+      "name": "Cine World"
+    },
+    "_voyage_city": "goa",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Goa"
+  }
+]

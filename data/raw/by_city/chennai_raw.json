@@ -1,0 +1,1927 @@
+[
+  {
+    "type": "node",
+    "id": 248643771,
+    "lat": 13.0379332,
+    "lon": 80.2558841,
+    "tags": {
+      "amenity": "arts_centre",
+      "created_by": "Potlatch 0.7b",
+      "name": "CP Arts Centre"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 279222927,
+    "lat": 12.9715133,
+    "lon": 80.1863723,
+    "tags": {
+      "amenity": "place_of_worship",
+      "created_by": "Potlatch 0.10f",
+      "name": "Dharmalingeswarar Temple",
+      "name:ta": "ஸ்ரீ தர்மலிங்கேச்வரர் ஆலயம்",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 280498514,
+    "lat": 12.9744013,
+    "lon": 80.1846894,
+    "tags": {
+      "amenity": "place_of_worship",
+      "created_by": "Potlatch 0.10",
+      "name": "Siddhi Vinayakar Temple",
+      "name:ta": "சித்தி விநாயகர் கோவில்",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 280498846,
+    "lat": 12.9849564,
+    "lon": 80.1880712,
+    "tags": {
+      "amenity": "place_of_worship",
+      "created_by": "Potlatch 0.10",
+      "name": "Ardhanarishvarar Temple",
+      "name:ta": "ஸ்ரீ அர்த்தநாரீஸ்வரர் ஆலயம்",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 280499221,
+    "lat": 12.9791978,
+    "lon": 80.1811044,
+    "tags": {
+      "amenity": "place_of_worship",
+      "created_by": "Potlatch 0.10a",
+      "name": "Varasiddhi Vinayakar Temple",
+      "name:ta": "வரசித்தி விநாயகர் கோவில்",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 280499839,
+    "lat": 12.9862343,
+    "lon": 80.1943293,
+    "tags": {
+      "addr:city": "chennai",
+      "addr:street": "3rd Main Road",
+      "amenity": "place_of_worship",
+      "check_date": "2026-07-31",
+      "denomination": "hindu",
+      "name": "Viswaroopa Anjaneya Temple",
+      "religion": "hindu",
+      "wikidata": "Q4765773"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 280511180,
+    "lat": 12.9711569,
+    "lon": 80.1907604,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Pathala Vigneshvarar Temple",
+      "name:ta": "பாதாள விக்னேஸ்வரர் கோவில்",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 295552094,
+    "lat": 13.0863046,
+    "lon": 80.2137898,
+    "tags": {
+      "created_by": "Potlatch 0.10f",
+      "name": "அண்ணா நகர் கோபுரம்",
+      "name:en": "Anna Nagar Tower",
+      "tourism": "viewpoint"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 299885276,
+    "lat": 12.9852789,
+    "lon": 80.2049757,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Subramanya Temple",
+      "name:ta": "அருள்மிகு சுப்பிரமணிய சுவாமி திருக்கோயில்",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 300299526,
+    "lat": 12.9893877,
+    "lon": 80.2017099,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Vinayaka Temple",
+      "name:ta": "விநாயகர் கோவில்",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 300314880,
+    "lat": 12.9830855,
+    "lon": 80.1932085,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Sri Utthara Guruvayoorapan Temple",
+      "name:ta": "ஸ்ரீ உத்தர குருவாயூரப்பன் கோவில்",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 300468145,
+    "lat": 12.9864443,
+    "lon": 80.2065651,
+    "tags": {
+      "amenity": "place_of_worship",
+      "created_by": "Potlatch 0.10d",
+      "name": "St. Marks Church",
+      "name:ta": "புனித மாற்கு தேவாலயம்",
+      "religion": "christian"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 304918810,
+    "lat": 13.0800561,
+    "lon": 80.2628411,
+    "tags": {
+      "historic": "monument",
+      "name": "Annai Maniammai Statue"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 304943976,
+    "lat": 13.0487479,
+    "lon": 80.212552,
+    "tags": {
+      "amenity": "place_of_worship",
+      "created_by": "Potlatch 0.10e",
+      "name": "Vengeeswaram Sivan Koil",
+      "name:en": "Vengeeswaran Sivan Kovil",
+      "name:ta": "அருள்மிகு வேங்கீஸ்வரர் திருக்கோயில்",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 304944654,
+    "lat": 13.0522774,
+    "lon": 80.2139073,
+    "tags": {
+      "amenity": "place_of_worship",
+      "created_by": "Potlatch 0.10e",
+      "name": "Perumal Koil",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 308301823,
+    "lat": 13.0490493,
+    "lon": 80.2483265,
+    "tags": {
+      "amenity": "theatre",
+      "name": "Kamaraj Arangam",
+      "name:etymology:wikidata": "Q522048"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 308914783,
+    "lat": 12.9799224,
+    "lon": 80.1822996,
+    "tags": {
+      "amenity": "cinema",
+      "name": "Vetrivel Cinemas"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 309061729,
+    "lat": 13.0768215,
+    "lon": 80.2761163,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Sri Bodyguard Muneeswarar Temple",
+      "name:ta": "ஸ்ரீ பாடிகாட் முனீஸ்வரர் ஆலயம்",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 310504179,
+    "lat": 13.0193208,
+    "lon": 80.266984,
+    "tags": {
+      "name": "Ambedkar Memorial",
+      "name:en": "Ambedkar Memorial",
+      "tourism": "attraction",
+      "wikidata": "Q15179678",
+      "wikipedia": "en:Ambedkar Manimandapam, Chennai"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 310504290,
+    "lat": 13.0189307,
+    "lon": 80.2680823,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Ayappan Koil",
+      "name:ta": "ஐயப்பன் கோயில்",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 310878136,
+    "lat": 12.9844571,
+    "lon": 80.1920412,
+    "tags": {
+      "amenity": "place_of_worship",
+      "check_date": "2026-04-25",
+      "name": "Sri Lakshmi Hayavadhana Perumal Temple",
+      "name:ta": "ஸ்ரீ லக்ஷ்மி ஹயவதன பெருமாள் கோவில்",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 310878214,
+    "lat": 12.9836469,
+    "lon": 80.1919851,
+    "tags": {
+      "amenity": "place_of_worship",
+      "check_date": "2026-04-25",
+      "name": "Sri Varasidhi Vinayagar Temple",
+      "name:ta": "அருள்மிகு ஸ்ரீ வரசித்தி விநாயகர் ஆலயம்",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 310981345,
+    "lat": 13.0668472,
+    "lon": 80.2846487,
+    "tags": {
+      "artwork_type": "statue",
+      "name": "Robert Caldwell Statue",
+      "tourism": "artwork"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 310981471,
+    "lat": 13.0641119,
+    "lon": 80.2837484,
+    "tags": {
+      "artist_name": "Debi Prasad Roy Chowdhury",
+      "historic": "monument",
+      "memorial": "statue",
+      "name": "Triumph of Labour",
+      "name:ml": "അധ്വാനത്തിന്റെ വിജയം",
+      "name:ta": "உழைப்பின் வெற்றி",
+      "start_date": "1959-01-25",
+      "wikidata": "Q7844567",
+      "wikimedia_commons": "Category:Triumph of Labour",
+      "wikipedia": "en:Triumph of Labour"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 310981506,
+    "lat": 13.0619185,
+    "lon": 80.2831094,
+    "tags": {
+      "artwork_type": "statue",
+      "name": "Bharathiyar",
+      "tourism": "artwork"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 310981548,
+    "lat": 13.0575315,
+    "lon": 80.282181,
+    "tags": {
+      "artwork_type": "statue",
+      "name": "Kannagi",
+      "tourism": "artwork",
+      "wikidata": "Q101252218",
+      "wikipedia": "en:Kannagi statue"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 310981550,
+    "lat": 13.0504233,
+    "lon": 80.2805333,
+    "tags": {
+      "artwork_type": "statue",
+      "name": "Annie Besant",
+      "tourism": "artwork"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 310981680,
+    "lat": 13.0433301,
+    "lon": 80.2800154,
+    "tags": {
+      "artist:wikidata": "Q12430825",
+      "artist_name": "Debi Prasad Roy Choudhury",
+      "historic": "memorial",
+      "material": "bronze",
+      "memorial": "statue",
+      "name": "Gandhi",
+      "start_date": "1959",
+      "subject:wikidata": "Q1001"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 310981827,
+    "lat": 13.0403349,
+    "lon": 80.2794878,
+    "tags": {
+      "artwork_type": "statue",
+      "name": "Kamarajar",
+      "name:en": "Kamarajar",
+      "tourism": "artwork"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 310982030,
+    "lat": 13.0401413,
+    "lon": 80.2681005,
+    "tags": {
+      "artwork_type": "statue",
+      "name": "Thiruvalluvar",
+      "name:en": "Thiruvalluvar",
+      "tourism": "artwork"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 311281260,
+    "lat": 13.1090349,
+    "lon": 80.2410153,
+    "tags": {
+      "amenity": "place_of_worship",
+      "created_by": "Potlatch 0.10f",
+      "name": "Perambur Lourdes Church",
+      "name:ta": "பெரம்பூர் தூய லூர்து அன்னை ஆலயம்",
+      "religion": "christian"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 311988613,
+    "lat": 13.0385397,
+    "lon": 80.2584688,
+    "tags": {
+      "amenity": "place_of_worship",
+      "created_by": "Potlatch 0.10f",
+      "name": "Alwarpet Anjaneyar Temple",
+      "name:ta": "ஆழ்வார்பேட்டை ஆஞ்சநேயர் கோவில்",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 312011819,
+    "lat": 13.0065031,
+    "lon": 80.2374064,
+    "tags": {
+      "amenity": "theatre",
+      "name": "Gandhi Mandapam",
+      "name:en": "Gandhi Mandapam",
+      "name:etymology:wikidata": "Q1001",
+      "name:ta": "காந்தி மண்டபம்",
+      "wikidata": "Q5520701",
+      "wikipedia": "en:Gandhi Mandapam (Chennai)"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 312011839,
+    "lat": 13.0064804,
+    "lon": 80.2391664,
+    "tags": {
+      "name": "Rajaji Memorial",
+      "tourism": "attraction"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 312011926,
+    "lat": 13.0067142,
+    "lon": 80.2362341,
+    "tags": {
+      "name": "Bakthavachalam Memorial",
+      "tourism": "attraction"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 312011930,
+    "lat": 13.006922,
+    "lon": 80.2355846,
+    "tags": {
+      "name": "Kamaraj Memorial",
+      "tourism": "attraction"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 312025122,
+    "lat": 13.0038872,
+    "lon": 80.2563577,
+    "tags": {
+      "amenity": "cinema",
+      "name": "Ganapathy Ram",
+      "name:en": "Ganapathiram theatre"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 312826838,
+    "lat": 12.9895127,
+    "lon": 80.2563784,
+    "tags": {
+      "amenity": "cinema",
+      "name": "S2 Theyagaraja"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 313127753,
+    "lat": 13.0551911,
+    "lon": 80.2489306,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "St Theresas Church",
+      "name:ta": "St Theresas Church",
+      "religion": "christian"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 315260499,
+    "lat": 13.0348481,
+    "lon": 80.2121781,
+    "tags": {
+      "historic": "monument",
+      "inscription": "Major landmark for Ashok Nagar, named after this Ashoka Pillar",
+      "name": "Ashok Pillar"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 315897595,
+    "lat": 13.0593418,
+    "lon": 80.2657932,
+    "tags": {
+      "amenity": "cinema",
+      "created_by": "Potlatch 0.10f",
+      "name": "Melody"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 315901385,
+    "lat": 13.0574606,
+    "lon": 80.2644629,
+    "tags": {
+      "amenity": "place_of_worship",
+      "created_by": "Potlatch 0.10f",
+      "name": "Wesley Church",
+      "religion": "christian"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 317227997,
+    "lat": 13.0584619,
+    "lon": 80.2582334,
+    "tags": {
+      "amenity": "library",
+      "created_by": "Potlatch 0.10f",
+      "name": "மாவட்ட மைய நூலகம்",
+      "name:en": "District Central Library"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 317228740,
+    "lat": 13.0596742,
+    "lon": 80.2577957,
+    "tags": {
+      "amenity": "library",
+      "name": "British Council Library"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 319500497,
+    "lat": 12.9911735,
+    "lon": 80.263951,
+    "tags": {
+      "amenity": "library",
+      "name": "Dr Swaminathan Iyer Library"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 319500757,
+    "lat": 12.9848728,
+    "lon": 80.2599847,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Marudeeswarar Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 319781245,
+    "lat": 13.0883866,
+    "lon": 80.2820421,
+    "tags": {
+      "artwork_type": "statue",
+      "name": "George V",
+      "tourism": "artwork"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 321831793,
+    "lat": 13.0715749,
+    "lon": 80.2743534,
+    "tags": {
+      "artwork_type": "statue",
+      "name": "Periyar",
+      "name:en": "Periyar",
+      "name:ta": "பெரியார் சிலை",
+      "tourism": "artwork"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 325200225,
+    "lat": 12.9943729,
+    "lon": 80.1942837,
+    "tags": {
+      "leisure": "park",
+      "name": "Alandur",
+      "name:ta": "ஆலந்தூர்"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 330774684,
+    "lat": 12.9933852,
+    "lon": 80.2373556,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Peeliamman Temple",
+      "name:ta": "ஸ்ரீ பீலியம்மன் ஆலயம்",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 330774689,
+    "lat": 12.9871921,
+    "lon": 80.2342045,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Temple",
+      "name:en": "Vinayakar temple",
+      "name:ta": "விநாயகர் கோயில்",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 334641386,
+    "lat": 12.9834049,
+    "lon": 80.2679528,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Vembaliamman Koil",
+      "name:ta": "வெம்பாளியம்மன் கோயில்",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 335983002,
+    "lat": 13.0032701,
+    "lon": 80.2384929,
+    "tags": {
+      "name": "Snake Park",
+      "tourism": "attraction",
+      "wikidata": "Q5091461",
+      "wikipedia": "en:Chennai Snake Park"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 339327873,
+    "lat": 13.0432174,
+    "lon": 80.2304165,
+    "tags": {
+      "addr:city": "Chennai",
+      "addr:housenumber": "20",
+      "addr:postcode": "600017",
+      "addr:street": "Maharajapuram Santhanam Salai",
+      "amenity": "theatre",
+      "name": "Sri Krishna Gana Sabha - Auditorium",
+      "operator": "Sri Krishna Gana Sabha",
+      "website": "https://www.krishnaganasabha.org/"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 353873992,
+    "lat": 13.0516753,
+    "lon": 80.2044022,
+    "tags": {
+      "amenity": "cinema",
+      "name": "SSR Pankajam Theater"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 355549777,
+    "lat": 13.0737768,
+    "lon": 80.2753893,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Governers Bodyguard Mosque",
+      "name:ta": "கவர்னர் பாடிகார்டு பள்ளிவாசல்",
+      "religion": "muslim"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 360359352,
+    "lat": 13.0523258,
+    "lon": 80.2520265,
+    "tags": {
+      "amenity": "library",
+      "created_by": "Potlatch 0.10f",
+      "name": "USIS Library"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 364367391,
+    "lat": 13.0294559,
+    "lon": 80.2084956,
+    "tags": {
+      "amenity": "cinema",
+      "created_by": "Potlatch 0.10f",
+      "name": "Kasi Theatre"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 365251742,
+    "lat": 13.0184326,
+    "lon": 80.2698072,
+    "tags": {
+      "amenity": "theatre",
+      "name": "IMAGE Auditorium"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 365281356,
+    "lat": 13.0373045,
+    "lon": 80.258891,
+    "tags": {
+      "amenity": "theatre",
+      "name": "Sivagami Petachi Auditorium"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 365954022,
+    "lat": 13.0172974,
+    "lon": 80.1914934,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Nandambakkam Ramar Temple",
+      "name:ta": "நந்தம்பாக்கம் இராமர் கோவில்",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 365987948,
+    "lat": 13.0093945,
+    "lon": 80.2280929,
+    "tags": {
+      "artwork_type": "statue",
+      "name": "Sardar Vallabhbhai Patel",
+      "tourism": "artwork"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 366498874,
+    "lat": 13.0491047,
+    "lon": 80.2474892,
+    "tags": {
+      "historic": "memorial",
+      "name": "GK Moopanar Memorial"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 366795454,
+    "lat": 13.0453507,
+    "lon": 80.2402311,
+    "tags": {
+      "artwork_type": "statue",
+      "name": "Nagercoil Sudalaimuthu Krishnan",
+      "tourism": "artwork"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 366795457,
+    "lat": 13.0474637,
+    "lon": 80.2395455,
+    "tags": {
+      "name": "காமராஜ் நினைவு வீடு",
+      "name:en": "Kamaraj Memorial House",
+      "tourism": "museum"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 369632221,
+    "lat": 13.0151562,
+    "lon": 80.2113106,
+    "tags": {
+      "amenity": "place_of_worship",
+      "created_by": "Potlatch 0.10f",
+      "name": "Infant Jesus Shrine",
+      "name:ta": "குழந்தை இயேசு ஆலயம்",
+      "religion": "christian"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 369642135,
+    "lat": 13.0255652,
+    "lon": 80.2009643,
+    "tags": {
+      "amenity": "place_of_worship",
+      "created_by": "Potlatch 0.10f",
+      "name": "Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 369642158,
+    "lat": 13.025791,
+    "lon": 80.2052816,
+    "tags": {
+      "addr:street": "7, 2nd Floor, 3rd Main Rd, Kalaimagal Nagar, Ekkatuthangal, Chennai, Tamil Nadu 600032",
+      "amenity": "place_of_worship",
+      "created_by": "Potlatch 0.10f",
+      "name": "Adhi Arunachaleshwar Temple",
+      "name:ta": "ஆதி அருணாசலேஸ்வரர் கோயில்",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 369875745,
+    "lat": 13.0815474,
+    "lon": 80.2598139,
+    "tags": {
+      "amenity": "place_of_worship",
+      "church": "Church of South India",
+      "denomination": "united",
+      "name": "Holy Trinity Church",
+      "religion": "christian"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 370317596,
+    "lat": 13.0669309,
+    "lon": 80.2457303,
+    "tags": {
+      "addr:housenumber": "24",
+      "addr:postcode": "600034",
+      "addr:street": "College Road",
+      "amenity": "theatre",
+      "created_by": "Potlatch 0.10f",
+      "name": "Alliance Francais",
+      "name:en": "Alliance Française",
+      "phone": "+91 44 2827 9803",
+      "website": "https://madras.afindia.org/"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 370495399,
+    "lat": 13.0090194,
+    "lon": 80.1958651,
+    "tags": {
+      "amenity": "place_of_worship",
+      "created_by": "Potlatch 0.10f",
+      "name": "Juma Masjid",
+      "name:ta": "ஜும்மா பள்ளிவாசல்",
+      "religion": "muslim"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 370521473,
+    "lat": 13.0446426,
+    "lon": 80.1977369,
+    "tags": {
+      "amenity": "place_of_worship",
+      "created_by": "Potlatch 0.10f",
+      "name": "Pillayar Koil",
+      "name:ta": "பிள்ளையார் கோயில்",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 386002500,
+    "lat": 13.0310739,
+    "lon": 80.2401059,
+    "tags": {
+      "artwork_type": "statue",
+      "name": "Ukkirapandi Muthuramalinga Thevar",
+      "tourism": "artwork"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 386890399,
+    "lat": 13.0553594,
+    "lon": 80.2580847,
+    "tags": {
+      "amenity": "theatre",
+      "name": "Sathyam Cinema"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 386890409,
+    "lat": 13.0427078,
+    "lon": 80.2592712,
+    "tags": {
+      "amenity": "arts_centre",
+      "name": "Sankara Hall"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 388125720,
+    "lat": 13.0751519,
+    "lon": 80.2179687,
+    "tags": {
+      "historic": "memorial",
+      "name": "Anna Nagar Arch",
+      "wikidata": "Q98769104"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 389012377,
+    "lat": 13.0522256,
+    "lon": 80.2202195,
+    "tags": {
+      "artwork_type": "statue",
+      "name": "Bhimrao Ramji Ambedkar",
+      "tourism": "artwork"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 389019559,
+    "lat": 13.0299336,
+    "lon": 80.2421897,
+    "tags": {
+      "historic": "memorial",
+      "memorial": "sculpture",
+      "name": "Nandanam Arch"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 389877120,
+    "lat": 13.0394173,
+    "lon": 80.1967802,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Ayyapan Koil",
+      "name:ta": "ஐயப்பன் கோயில்",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 391871202,
+    "lat": 12.9968705,
+    "lon": 80.1994604,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Karpaga Vinayakar Koil",
+      "name:ta": "கற்பக விநாயகர் கோயில்",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 391871203,
+    "lat": 13.0057368,
+    "lon": 80.2061681,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Vembuli Amman Koil",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 394653914,
+    "lat": 13.0274468,
+    "lon": 80.2096141,
+    "tags": {
+      "addr:street": "Shop No. 25, Anna Main Road, Cholan St, Pari Nagar, West Jafferkhanpet, Chennai, Tamil Nadu 600083",
+      "amenity": "place_of_worship",
+      "name": "Shri Rathina Ganapathi Temple",
+      "name:ta": "ஸ்ரீ இரத்தின கணபதி கோயில்",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 410623178,
+    "lat": 13.0158394,
+    "lon": 80.2628474,
+    "tags": {
+      "name": "Brodie Castle",
+      "tourism": "attraction",
+      "wikidata": "Q7781407",
+      "wikipedia": "en:Thenral"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 410718772,
+    "lat": 13.0119591,
+    "lon": 80.2440161,
+    "tags": {
+      "addr:full": "4, Periyar Science and Technology Centre, Gandhi Mandapam Road, Chennai - 600025",
+      "amenity": "planetarium",
+      "name": "Birla Planetarium",
+      "name:ta": "பிர்ல கோளரங்கம்",
+      "tourism": "attraction",
+      "wikidata": "Q4916535",
+      "wikimedia_commons": "Category:Birla Planetarium, Chennai",
+      "wikipedia": "en:Birla Planetarium, Chennai"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 415412674,
+    "lat": 13.0332732,
+    "lon": 80.2634741,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Nandalala Institute",
+      "religion": "hindu",
+      "wheelchair": "no"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 415865972,
+    "lat": 12.9271892,
+    "lon": 80.2554424,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Shirdi Sai Baba Temple",
+      "name:ta": "சீரடி சாய்பாபா கோவில்",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 415915284,
+    "lat": 13.0705088,
+    "lon": 80.2366686,
+    "tags": {
+      "amenity": "theatre",
+      "name": "MCC Auditorium"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 415915377,
+    "lat": 13.0683685,
+    "lon": 80.2387028,
+    "tags": {
+      "amenity": "theatre",
+      "name": "MV Rao Concert Hall"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 416015486,
+    "lat": 13.0247641,
+    "lon": 80.2233811,
+    "tags": {
+      "addr:street": "1, Karaneeswarar Koil St, Suriyammapet, Saidapet, Chennai, Tamil Nadu 600015",
+      "amenity": "place_of_worship",
+      "name": "Arulmigu Karaneeswarar Temple",
+      "opening_hours": "Mo-Su 06:00-11:00, 16:00-21:00",
+      "phone": "044 2381 1668",
+      "religion": "hindu",
+      "website": "tnhrce.in"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 416413322,
+    "lat": 13.0378036,
+    "lon": 80.2665431,
+    "tags": {
+      "amenity": "cinema",
+      "check_date": "2024-05-22",
+      "name": "Kamadhenu",
+      "name:en": "Kamadhenu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 417751248,
+    "lat": 13.0004947,
+    "lon": 80.2673166,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Varasiddhi Vinayakar Koil",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 459647940,
+    "lat": 13.047451,
+    "lon": 80.2047764,
+    "tags": {
+      "addr:street": "No.7, Arcot Rd, Ottagapalayam, Kannika Puram, Vadapalani, Chennai, Tamil Nadu 600026",
+      "amenity": "cinema",
+      "name": "AVM Rajeswari Theatre",
+      "website": "https://avmrajeswaritheatre.com/"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 472593951,
+    "lat": 13.0682858,
+    "lon": 80.2177595,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Azad Nagar Mosque",
+      "religion": "muslim"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 472813882,
+    "lat": 13.0011706,
+    "lon": 80.2596654,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Shiva Vishnu Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 577376035,
+    "lat": 13.0489289,
+    "lon": 80.2101557,
+    "tags": {
+      "addr:full": "156, Arcot Rd, Ottagapalayam, Somasundara Bharathi Nagar, Vadapalani, Chennai, Tamil Nadu 600026",
+      "amenity": "cinema",
+      "name": "Kamala Cinemas",
+      "phone": "092822 00400",
+      "website": "http://kamalacinemas.com/"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 583159458,
+    "lat": 13.0429663,
+    "lon": 80.2474865,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Amman Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 597590623,
+    "lat": 13.0564604,
+    "lon": 80.1946323,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Infant Jesus Church",
+      "religion": "christian"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 603480842,
+    "lat": 13.1047263,
+    "lon": 80.2795897,
+    "tags": {
+      "amenity": "cinema",
+      "name": "Crown Talkies"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 610963080,
+    "lat": 13.0845723,
+    "lon": 80.2542802,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Gangadeeshwar Koil",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 611549980,
+    "lat": 13.0928705,
+    "lon": 80.2517604,
+    "tags": {
+      "amenity": "cinema",
+      "name": "Balaj"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 612548203,
+    "lat": 13.0719866,
+    "lon": 80.2068346,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Sundara Vinayagar Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 618619758,
+    "lat": 13.0950638,
+    "lon": 80.2273822,
+    "tags": {
+      "amenity": "cinema",
+      "name": "Gopikrishna"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 618641924,
+    "lat": 13.0997531,
+    "lon": 80.217318,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Viinayagar Koil",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 618641950,
+    "lat": 13.0993988,
+    "lon": 80.2210877,
+    "tags": {
+      "amenity": "theatre",
+      "name": "Kambar Arangam",
+      "name:etymology:wikidata": "Q1535227",
+      "name:ta": "கம்பர் அரங்கம்"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 687176066,
+    "lat": 13.0743858,
+    "lon": 80.1912853,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "ஶ்ரீ சுயம்பு தீ பாஞ்ச அம்மன் ஆலயம்",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 907580779,
+    "lat": 13.0445389,
+    "lon": 80.221183,
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "temple",
+      "name": "MADRAS KALI BARI"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 934866615,
+    "lat": 13.0396062,
+    "lon": 80.1915913,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "MariAmman Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 934866616,
+    "lat": 13.039601,
+    "lon": 80.1913177,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Purathana MaariAmman Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 941573710,
+    "lat": 13.0736242,
+    "lon": 80.221695,
+    "tags": {
+      "air_conditioning": "yes",
+      "amenity": "cinema",
+      "brand": "PVR Cinemas",
+      "brand:short": "PVR",
+      "brand:wikidata": "Q3359908",
+      "brand:wikipedia": "en:PVR Cinemas",
+      "check_date": "2026-02-28",
+      "name": "PVR Cinemas",
+      "payment:cash": "yes",
+      "payment:credit_cards": "yes",
+      "payment:debit_cards": "yes",
+      "short_name": "PVR"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 973620328,
+    "lat": 12.908527,
+    "lon": 80.197316,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Vinayagar",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 1237850742,
+    "lat": 13.0592322,
+    "lon": 80.2032449,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Sri Raghavendra Swamy Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 1243945106,
+    "lat": 12.9889042,
+    "lon": 80.1951009,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Lakshmi Narasimhar Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 1243945107,
+    "lat": 12.9893653,
+    "lon": 80.1917126,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Sri Raja Rajeshwari Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 1243945108,
+    "lat": 12.9888415,
+    "lon": 80.1952645,
+    "tags": {
+      "addr:city": "Chennai",
+      "addr:postcode": "600061",
+      "addr:street": "24th Street",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "Devi Karumari Amman Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 1281024776,
+    "lat": 13.0254269,
+    "lon": 80.1879611,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Kalasathamman Koil",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 1281038211,
+    "lat": 13.0016446,
+    "lon": 80.2027593,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Karpaga vinayagar koil",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 1317151777,
+    "lat": 12.9674844,
+    "lon": 80.2090431,
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "vaishnavam",
+      "name": "Ramar Temple",
+      "religion": "hindu",
+      "wheelchair": "yes"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 1329321953,
+    "lat": 12.9216642,
+    "lon": 80.2030798,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 1329334515,
+    "lat": 12.9051087,
+    "lon": 80.2108997,
+    "tags": {
+      "addr:street": "Link Road",
+      "amenity": "library",
+      "internet_access": "no",
+      "name": "Semmozhi Tamil Library"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 1330443399,
+    "lat": 12.9267346,
+    "lon": 80.1981403,
+    "tags": {
+      "name": "Animal Housing",
+      "tourism": "information"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 1359319087,
+    "lat": 13.0202517,
+    "lon": 80.2012952,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Jumma Masjid",
+      "religion": "muslim"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 1453434170,
+    "lat": 12.9700508,
+    "lon": 80.2577086,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Vembuliamman Kovil",
+      "religion": "hindu",
+      "wheelchair": "yes"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 1453437484,
+    "lat": 12.9754585,
+    "lon": 80.2536488,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Vinayakar Kovil",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 1453447479,
+    "lat": 12.97431,
+    "lon": 80.2556251,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Anjaneyar Kovil",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 1453559831,
+    "lat": 12.9753235,
+    "lon": 80.2586208,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Masjid e Noor",
+      "religion": "muslim",
+      "wheelchair": "no"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 1453580061,
+    "lat": 12.9745263,
+    "lon": 80.2629518,
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "sai_baba",
+      "name": "Saibaba Temple",
+      "religion": "sai_baba"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 1488329238,
+    "lat": 13.0470205,
+    "lon": 80.1903844,
+    "tags": {
+      "addr:street": "Arcot Road, Chandra Metro Mall, Virugambakkam Old 92, New 262, Chennai, Tamil Nadu 600092",
+      "amenity": "cinema",
+      "brand": "INOX Leisure",
+      "brand:wikidata": "Q5972349",
+      "brand:wikipedia": "en:INOX Leisure Limited",
+      "description": "Chandra Metro Mall",
+      "name": "Inox National",
+      "phone": "91760 25501",
+      "short_name": "INOX",
+      "website": "https://www.inoxmovies.com"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 1597178644,
+    "lat": 13.0591627,
+    "lon": 80.2015426,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Shankaranarayana Swami Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  },
+  {
+    "type": "node",
+    "id": 1645214331,
+    "lat": 13.0102564,
+    "lon": 80.2353026,
+    "tags": {
+      "artwork_type": "statue",
+      "memorial": "statue",
+      "name": "Conjeevaram Natarajan Annadurai",
+      "tourism": "artwork"
+    },
+    "_voyage_city": "chennai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Chennai"
+  }
+]

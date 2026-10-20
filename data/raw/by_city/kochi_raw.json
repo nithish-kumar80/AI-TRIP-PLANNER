@@ -1,0 +1,1856 @@
+[
+  {
+    "type": "node",
+    "id": 600348673,
+    "lat": 9.9631519,
+    "lon": 76.2388297,
+    "tags": {
+      "amenity": "place_of_worship",
+      "check_date": "2022-12-09",
+      "name": "St. Andrews Parish Hall",
+      "religion": "christian"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 600348684,
+    "lat": 9.9623143,
+    "lon": 76.2402724,
+    "tags": {
+      "name": "Indo-Portuguese Museum",
+      "name:en": "Indo-Portuguese Museum",
+      "name:ml": "ഇന്തോ-പോർച്ചുഗീസ് മ്യൂസിയം, ഫോർട്ട് കൊച്ചി",
+      "opening_hours": "Tu-Su 09:00-13:00, 14:00-18:00",
+      "tourism": "museum",
+      "wikidata": "Q6025543",
+      "wikipedia": "en:Indo-Portuguese Museum"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 600348698,
+    "lat": 9.9663159,
+    "lon": 76.2390124,
+    "tags": {
+      "historic": "ruins",
+      "name": "Fort Immanuel, Fort Kochi",
+      "name:en": "Fort Immanuel,Fort Kochi",
+      "name:ml": "ഫോർട്ട് ഇമ്മാനുവേൽ, ഫോർട്ട് കൊച്ചി",
+      "wikidata": "Q18355920",
+      "wikimedia_commons": "Category:Fort Emmanuel, Kochi, Kerala",
+      "wikipedia": "en:Fort Emmanuel"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 600348744,
+    "lat": 9.9678144,
+    "lon": 76.2412213,
+    "tags": {
+      "historic": "memorial",
+      "memorial": "sculpture",
+      "name": "Dredger Anchor",
+      "name:en": "Dredger Anchor"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 600348746,
+    "lat": 9.9673945,
+    "lon": 76.2404786,
+    "tags": {
+      "historic": "memorial",
+      "memorial": "sculpture",
+      "name": "Steam Boilers",
+      "name:en": "Steam Boilers"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 600348749,
+    "lat": 9.9679554,
+    "lon": 76.2424324,
+    "tags": {
+      "name": "Vasco da Gama Square",
+      "name:en": "Vasco da Gama Square",
+      "name:ml": "വാസ്കൊ ഡ ഗാമ സ്ക്വയര്‍",
+      "place": "square",
+      "tourism": "attraction"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 1668506230,
+    "lat": 9.95596,
+    "lon": 76.26,
+    "tags": {
+      "addr:postcode": "682002",
+      "fee": "no",
+      "name": "Police Museum",
+      "tourism": "museum"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 1686911337,
+    "lat": 9.9574961,
+    "lon": 76.2446409,
+    "tags": {
+      "historic": "monument",
+      "name": "Kovil Homestay"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 2195975562,
+    "lat": 9.9648709,
+    "lon": 76.2448206,
+    "tags": {
+      "addr:city": "Fort Cochin",
+      "amenity": "arts_centre",
+      "name": "St Mary's Convent Auditorium"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 2391284661,
+    "lat": 9.9569514,
+    "lon": 76.2516877,
+    "tags": {
+      "addr:city": "Cochin",
+      "addr:district": "Ernakulam",
+      "addr:postcode": "682002",
+      "addr:street": "Siva temple lane",
+      "amenity": "place_of_worship",
+      "name": "Udyaneswaram Shiva temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 2391284729,
+    "lat": 9.9543408,
+    "lon": 76.2514948,
+    "tags": {
+      "amenity": "library",
+      "name": "Y. N. P. Trust Public Library"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 2391284733,
+    "lat": 9.9561295,
+    "lon": 76.252256,
+    "tags": {
+      "amenity": "library",
+      "name": "Sree Saraswath Association Public Library"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 2391284942,
+    "lat": 9.9565521,
+    "lon": 76.2492596,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Sree Sastha temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 2391284947,
+    "lat": 9.9570138,
+    "lon": 76.2494932,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Sree Venkatesa Seva Samithi",
+      "religion": "hindu"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 2391284966,
+    "lat": 9.9560191,
+    "lon": 76.2552787,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Sree Vitobha Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 2391316115,
+    "lat": 9.9591283,
+    "lon": 76.2534066,
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "name": "Sridi Sai Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 2391316116,
+    "lat": 9.9589944,
+    "lon": 76.2536335,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Pandit Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 2391316117,
+    "lat": 9.9588804,
+    "lon": 76.2537998,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Hanuman Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 2391343014,
+    "lat": 9.9554407,
+    "lon": 76.2526246,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Amman Kovil",
+      "religion": "hindu"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 2391343058,
+    "lat": 9.9538714,
+    "lon": 76.2474584,
+    "tags": {
+      "amenity": "cinema",
+      "name": "Ajantha Theaters"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 2391343078,
+    "lat": 9.9594658,
+    "lon": 76.2448422,
+    "tags": {
+      "amenity": "cinema",
+      "name": "Kokers Theatre"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 2463565468,
+    "lat": 9.9234155,
+    "lon": 76.2561053,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "St.Louis Church",
+      "religion": "christian"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 2928683963,
+    "lat": 9.9734756,
+    "lon": 76.2433092,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Our Lady of Hope Church",
+      "name:en": "Our Lady of Hope Church",
+      "religion": "christian",
+      "wikidata": "Q5116971",
+      "wikimedia_commons": "Category:Our Lady of Hope Church, Vypin",
+      "wikipedia": "en:Church of Our Lady of Hope"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 4193548438,
+    "lat": 9.9649907,
+    "lon": 76.2549084,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Holy Cross Chapel",
+      "religion": "christian"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 4307194683,
+    "lat": 10.1414205,
+    "lon": 76.1983785,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "St. George Jacobite Church",
+      "religion": "christian"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 4447469840,
+    "lat": 10.137197,
+    "lon": 76.1801492,
+    "tags": {
+      "leisure": "beach_resort",
+      "name": "Club Mahindra"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 4464707968,
+    "lat": 9.790777,
+    "lon": 76.2775461,
+    "tags": {
+      "addr:city": "Chellanam",
+      "addr:postcode": "682008",
+      "addr:street": "Alappuzha - Arthunkal - Chellanam - Thoppumpady Road",
+      "amenity": "place_of_worship",
+      "denomination": "catholic",
+      "name": "St George Church",
+      "religion": "christian"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 4631802892,
+    "lat": 9.9638232,
+    "lon": 76.239102,
+    "tags": {
+      "amenity": "arts_centre",
+      "name": "Kashi Art Gallery"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 4634221089,
+    "lat": 9.960486,
+    "lon": 76.2589441,
+    "tags": {
+      "name": "Art Gallery",
+      "name:en": "Art Gallery",
+      "tourism": "artwork"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 4634472689,
+    "lat": 9.9572586,
+    "lon": 76.2596279,
+    "tags": {
+      "name": "Galley 'c' seven",
+      "name:en": "Galley 'c' seven",
+      "tourism": "artwork"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 4639391595,
+    "lat": 9.9622261,
+    "lon": 76.2575328,
+    "tags": {
+      "name": "Forlay Society",
+      "name:en": "BC Gallery",
+      "tourism": "gallery"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 4693226001,
+    "lat": 10.1675654,
+    "lon": 76.1834561,
+    "tags": {
+      "artwork_type": "statue",
+      "name": "Jesus Statue",
+      "tourism": "artwork"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 4808923123,
+    "lat": 9.9622072,
+    "lon": 76.2579781,
+    "tags": {
+      "name": "OED gallery",
+      "name:en": "OED gallery",
+      "tourism": "gallery"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 5000216655,
+    "lat": 9.9685121,
+    "lon": 76.2499204,
+    "tags": {
+      "addr:city": "Fort Kochi",
+      "amenity": "arts_centre",
+      "name": "Greenix Ventures"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 5581987921,
+    "lat": 9.9173243,
+    "lon": 76.2850335,
+    "tags": {
+      "name": "Spot on the rocks",
+      "tourism": "attraction"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 5629954189,
+    "lat": 9.9575934,
+    "lon": 76.2570544,
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "temple",
+      "name": "Thekkemadom Dharma Sastha Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 5766561996,
+    "lat": 9.9549245,
+    "lon": 76.260164,
+    "tags": {
+      "amenity": "arts_centre",
+      "name": "Indo French contemporary art space",
+      "website": "https://keralas.info/ernakulam/"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 5766600176,
+    "lat": 9.9548799,
+    "lon": 76.2594597,
+    "tags": {
+      "addr:postcode": "682002",
+      "addr:street": "St. Jacob road",
+      "amenity": "place_of_worship",
+      "name": "St. Jacob Chapel",
+      "religion": "christian",
+      "website": "https://keralas.info/ernakulam/"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 6166472728,
+    "lat": 10.1403674,
+    "lon": 76.1989371,
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "St. Mary's Orthodox Syrian Church",
+      "religion": "christian"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 6180290729,
+    "lat": 10.1548055,
+    "lon": 76.1941726,
+    "tags": {
+      "name": "Sahodaran Ayappan Museum",
+      "tourism": "museum"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 6357739885,
+    "lat": 9.9515138,
+    "lon": 76.2440729,
+    "tags": {
+      "name": "Dhobi Khana",
+      "tourism": "attraction"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 6482284969,
+    "lat": 9.912862,
+    "lon": 76.2927117,
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "catholic",
+      "name": "St. Mary's Church",
+      "religion": "christian"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 6482300990,
+    "lat": 9.9106327,
+    "lon": 76.2930799,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Varikkassery temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 6482300992,
+    "lat": 9.9109715,
+    "lon": 76.2940844,
+    "tags": {
+      "artwork_type": "statue",
+      "name": "Pandit Karuppan Statue",
+      "tourism": "artwork"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 6482300993,
+    "lat": 9.9122874,
+    "lon": 76.2935874,
+    "tags": {
+      "artwork_type": "statue",
+      "name": "Mother Tereasa",
+      "tourism": "artwork"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 6555853297,
+    "lat": 9.9128442,
+    "lon": 76.2923631,
+    "tags": {
+      "artwork_type": "statue",
+      "name": "Cherupushpam statue",
+      "tourism": "artwork"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 6555853298,
+    "lat": 9.9126859,
+    "lon": 76.2923665,
+    "tags": {
+      "historic": "memorial",
+      "name": "Clock Tower"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 6555853299,
+    "lat": 9.9125768,
+    "lon": 76.2926267,
+    "tags": {
+      "artwork_type": "statue",
+      "name": "Mother Mary Statue",
+      "tourism": "artwork"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 6555853300,
+    "lat": 9.9136743,
+    "lon": 76.2888291,
+    "tags": {
+      "historic": "wayside_shrine",
+      "name": "Guru Nathan Shrine",
+      "religion": "hindu"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 6555853306,
+    "lat": 9.9114448,
+    "lon": 76.295186,
+    "tags": {
+      "historic": "wayside_shrine",
+      "name": "Cemetry Shrine",
+      "religion": "christian"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 6555853317,
+    "lat": 9.9159535,
+    "lon": 76.2909634,
+    "tags": {
+      "denomination": "catholic",
+      "historic": "wayside_shrine",
+      "name": "St.Marys chapel",
+      "religion": "christian"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 6575141211,
+    "lat": 9.9109366,
+    "lon": 76.2930635,
+    "tags": {
+      "historic": "wayside_shrine",
+      "name": "Rajarajesweri devi shrine",
+      "religion": "hindu"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 6575187629,
+    "lat": 9.9139896,
+    "lon": 76.2893489,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Sree Krishna Swamy Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 6575187630,
+    "lat": 9.9141093,
+    "lon": 76.289099,
+    "tags": {
+      "historic": "wayside_shrine",
+      "name": "Bhadrakali Devi shrine",
+      "religion": "hindu"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 6604419480,
+    "lat": 9.9146233,
+    "lon": 76.2945312,
+    "tags": {
+      "artwork_type": "mural",
+      "name": "Kevin the minionn",
+      "tourism": "artwork"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 6604419481,
+    "lat": 9.9147285,
+    "lon": 76.2945073,
+    "tags": {
+      "artwork_type": "mural",
+      "name": "Bob the minion",
+      "tourism": "artwork"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 6627034825,
+    "lat": 9.9086534,
+    "lon": 76.2892045,
+    "tags": {
+      "historic": "wayside_shrine",
+      "name": "St. jacob chapel",
+      "religion": "christian"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 6778153358,
+    "lat": 9.9688361,
+    "lon": 76.2501946,
+    "tags": {
+      "addr:city": "Fort Kochi",
+      "amenity": "library",
+      "name": "Visual Art Library"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 6871717429,
+    "lat": 10.0729486,
+    "lon": 76.2276195,
+    "tags": {
+      "addr:postcode": "682509",
+      "addr:street": "VeeranPuzha Road",
+      "description": "Best Time Evening,Also you can see Sun rise Here",
+      "name": "Veeran Puzha",
+      "tourism": "attraction"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 6927148260,
+    "lat": 10.0741275,
+    "lon": 76.2125078,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Puncheppady Edayil veedu Temple",
+      "phone": "+91-8547298807",
+      "religion": "hindu"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 6959314140,
+    "lat": 10.0705801,
+    "lon": 76.2118987,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Durga Devi Temple",
+      "name:ml": "ദുർഗ ദേവി ക്ഷേത്രം",
+      "religion": "hindu"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 7010358018,
+    "lat": 10.065018,
+    "lon": 76.2126548,
+    "tags": {
+      "amenity": "library",
+      "name": "Nayarambalam public Library"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 7018640095,
+    "lat": 10.0071244,
+    "lon": 76.2315265,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Subramanyan Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 7324655780,
+    "lat": 9.968247,
+    "lon": 76.2445486,
+    "tags": {
+      "amenity": "theatre",
+      "building": "yes",
+      "check_date": "2024-10-16",
+      "description:ru": "Танц.Шоу Катакали25$ традиц.танец Катакали упоминается во2-м веке и развивается вплоть до16в. Катакали- это своего рода танц.драма, разворачивающаяся в танце, этот танец является прородителем народного театра с древнейших времен.",
+      "name": "Folklore Cultural Theatre"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 7463866061,
+    "lat": 9.9126786,
+    "lon": 76.2706455,
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "catholic",
+      "name": "ST.Lawrence Church Hall",
+      "religion": "christian"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 7467966713,
+    "lat": 9.9123729,
+    "lon": 76.270935,
+    "tags": {
+      "historic": "monument",
+      "name": "Fathima Matha Groto"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 7469926334,
+    "lat": 10.0183798,
+    "lon": 76.226152,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "St.Peter'S Chapel",
+      "religion": "christian"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 7474195866,
+    "lat": 10.1763674,
+    "lon": 76.1636338,
+    "tags": {
+      "name": "Munambam Pulimuttu",
+      "tourism": "attraction"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 7475715355,
+    "lat": 9.895856,
+    "lon": 76.295211,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Thadiyankadavil Sree Dharma Sasta Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 7480321351,
+    "lat": 9.8950877,
+    "lon": 76.296022,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "I.P.C. - Indian Pentecostal Church Penile"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 7480781795,
+    "lat": 9.9031813,
+    "lon": 76.2954277,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Santa Cruz Chapel",
+      "religion": "christian"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 7682151986,
+    "lat": 10.0487938,
+    "lon": 76.2171049,
+    "tags": {
+      "amenity": "library",
+      "name": "PK Balakrishnan memorial",
+      "survey:date": "2020-07-04"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 8360464208,
+    "lat": 10.1400611,
+    "lon": 76.1989868,
+    "tags": {
+      "addr:housenumber": "Cherai",
+      "amenity": "place_of_worship",
+      "denomination": "jacobite",
+      "name": "St.Mary's Jacobite Syrian Church",
+      "religion": "christian"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 8444251054,
+    "lat": 9.9630655,
+    "lon": 76.2457732,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "St. Antony Church",
+      "religion": "christian"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 8444251100,
+    "lat": 9.9637815,
+    "lon": 76.2487026,
+    "tags": {
+      "addr:city": "Ernakulam",
+      "addr:postcode": "682001",
+      "addr:street": "Pullupalam Road",
+      "amenity": "place_of_worship",
+      "denomination": "ahmadiyya",
+      "name": "Ahmadiyya Muslim Jama-Ath Masjid",
+      "religion": "muslim"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 8562572499,
+    "lat": 10.1792385,
+    "lon": 76.1726854,
+    "tags": {
+      "addr:city": "ernakulam",
+      "addr:housenumber": "Sree Krishna Temple",
+      "addr:postcode": "683515",
+      "addr:street": "Vypin - Pallippuram Road",
+      "amenity": "place_of_worship",
+      "name": "Sree Krishna Temple , Munambam",
+      "religion": "hindu",
+      "service_times": "5.00 am to 10 am and 5.00 pm to 9.00 pm"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 8562572501,
+    "lat": 10.1784631,
+    "lon": 76.1714219,
+    "tags": {
+      "addr:city": "ernakulam",
+      "addr:postcode": "683515",
+      "addr:street": "Vypin - Pallippuram Road",
+      "amenity": "place_of_worship",
+      "name": "Ponath Sree Badrakali Raktheswari Temple , Munambam",
+      "religion": "hindu"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 8661716332,
+    "lat": 9.949898,
+    "lon": 76.2451409,
+    "tags": {
+      "addr:postcode": "682001",
+      "addr:street": "Veli Road",
+      "amenity": "place_of_worship",
+      "denomination": "catholic",
+      "name": "St Joseph Church",
+      "religion": "christian",
+      "survey:date": "2021-04-28"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 8677148717,
+    "lat": 9.9731705,
+    "lon": 76.2431524,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "St Morris Chapel",
+      "name:en": "St Morris Chapel",
+      "religion": "christian",
+      "survey:date": "2021-04-28"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 8869549136,
+    "lat": 9.9450103,
+    "lon": 76.259249,
+    "tags": {
+      "leisure": "garden",
+      "name": "Garden space"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 8873037669,
+    "lat": 9.9418578,
+    "lon": 76.2556936,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Chakkanattu temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 8939247160,
+    "lat": 10.1612446,
+    "lon": 76.1896297,
+    "tags": {
+      "amenity": "library",
+      "name": "Akshara Vayanashala"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 8941925453,
+    "lat": 10.1274259,
+    "lon": 76.1829246,
+    "tags": {
+      "amenity": "library",
+      "name": "Kadal Kanya Vayanashala"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 8941941865,
+    "lat": 10.142935,
+    "lon": 76.1911612,
+    "tags": {
+      "amenity": "library",
+      "name": "Cherai Public Library"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 8948951912,
+    "lat": 10.093568,
+    "lon": 76.2087017,
+    "tags": {
+      "amenity": "library",
+      "name": "Cosmopolitan Library"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 8977712121,
+    "lat": 10.0598422,
+    "lon": 76.2264086,
+    "tags": {
+      "amenity": "library",
+      "name": "Vayanashala"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 9091149546,
+    "lat": 9.7773892,
+    "lon": 76.2809391,
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "catholic",
+      "name": "St Sebastions Church Pallithode",
+      "religion": "christian"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 9158962117,
+    "lat": 9.9341073,
+    "lon": 76.2650236,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "St. Sebastian's Latin Catholic Church",
+      "religion": "christian",
+      "survey:date": "2021-10-08"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 9168706617,
+    "lat": 9.9360054,
+    "lon": 76.2620378,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Our Lady of Miracle Church",
+      "religion": "christian",
+      "survey:date": "2021-10-13"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 9168731117,
+    "lat": 9.9340756,
+    "lon": 76.2648549,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "St. Sebastian's Latin Catholic Church",
+      "religion": "christian",
+      "survey:date": "2021-10-13"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 9168731119,
+    "lat": 9.9360148,
+    "lon": 76.2620548,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Our Lady of Miracle Church",
+      "religion": "christian",
+      "survey:date": "2021-10-13"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 9178179442,
+    "lat": 9.9355746,
+    "lon": 76.2571069,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "St. Mary's Chapel",
+      "religion": "christian"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 9481479953,
+    "lat": 10.0060692,
+    "lon": 76.2335133,
+    "tags": {
+      "addr:city": "Ernakulam",
+      "addr:postcode": "682508",
+      "addr:street": "Ochanthuruth",
+      "amenity": "library",
+      "name": "Pakalveed library",
+      "operator": "Cooperative society ochanthuruth"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 9492764783,
+    "lat": 10.0251569,
+    "lon": 76.2304421,
+    "tags": {
+      "addr:city": "Elamkunnapuzha,Vypeen,Ernakulam",
+      "addr:street": "Malipuram",
+      "amenity": "library",
+      "name": "Vayanashala"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 10221070617,
+    "lat": 10.1408329,
+    "lon": 76.1917788,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Vethala temple"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 10221070717,
+    "lat": 10.1406926,
+    "lon": 76.1918138,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Sree Vittoba temple"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 10270668990,
+    "lat": 9.9680105,
+    "lon": 76.2442211,
+    "tags": {
+      "amenity": "library",
+      "name": "Herschel Memorial Library",
+      "name:en": "Herschel Memorial Library"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 10270671774,
+    "lat": 9.9586719,
+    "lon": 76.2443096,
+    "tags": {
+      "amenity": "library",
+      "name": "L.G. Pai Memorial Library"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 10270699115,
+    "lat": 9.9612812,
+    "lon": 76.2409766,
+    "tags": {
+      "amenity": "library",
+      "check_date:opening_hours": "2026-02-12",
+      "name": "Sayed Ahamed Memorial Library And Reading Room",
+      "opening_hours:signed": "no"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 10270702170,
+    "lat": 9.9536397,
+    "lon": 76.2476039,
+    "tags": {
+      "amenity": "library",
+      "name": "Chathrapathi Shivaji Library"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 10587459006,
+    "lat": 9.9582917,
+    "lon": 76.2605235,
+    "tags": {
+      "name": "Kochi Tourist Boating Centre",
+      "tourism": "attraction"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 10680355121,
+    "lat": 9.9626569,
+    "lon": 76.2531818,
+    "tags": {
+      "amenity": "library",
+      "name": "S.Y.S. Library"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 10700202026,
+    "lat": 9.8753619,
+    "lon": 76.2654888,
+    "tags": {
+      "amenity": "library",
+      "name": "VIJAYAMBIKA LIBRARY"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 10700211734,
+    "lat": 9.911194,
+    "lon": 76.293732,
+    "tags": {
+      "amenity": "library",
+      "name": "PANDITKARPAN LIBRARY"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 10732401359,
+    "lat": 9.9546001,
+    "lon": 76.2510125,
+    "tags": {
+      "amenity": "library",
+      "name": "YNP Trust Reading Room"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 10732403902,
+    "lat": 9.948539,
+    "lon": 76.2607434,
+    "tags": {
+      "amenity": "library",
+      "name": "Nazar Memorial Reading Room"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 10732433289,
+    "lat": 9.9576434,
+    "lon": 76.2535681,
+    "tags": {
+      "amenity": "library",
+      "name": "Yashoda's Library"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 10732624590,
+    "lat": 9.9466306,
+    "lon": 76.2573127,
+    "tags": {
+      "amenity": "library",
+      "name": "M.K. Raghavan Memorial Library & Reading Room"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 10732624591,
+    "lat": 9.9466041,
+    "lon": 76.2571862,
+    "tags": {
+      "amenity": "library",
+      "name": "Panayapilly Public Library"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 10733014336,
+    "lat": 9.9426619,
+    "lon": 76.2598809,
+    "tags": {
+      "amenity": "library",
+      "name": "Tagore Library And Reading Room"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 10734277580,
+    "lat": 9.9271189,
+    "lon": 76.2637674,
+    "tags": {
+      "amenity": "library",
+      "name": "Joshy Memorial Library."
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 10734307996,
+    "lat": 9.9149549,
+    "lon": 76.2785693,
+    "tags": {
+      "amenity": "library",
+      "name": "Gandhikrishnan Library"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 10734308433,
+    "lat": 9.9240228,
+    "lon": 76.2746832,
+    "tags": {
+      "amenity": "library",
+      "name": "Sneha Bhavan Orphanage Library"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 10734334038,
+    "lat": 9.9237966,
+    "lon": 76.2786426,
+    "tags": {
+      "amenity": "library",
+      "name": "Sree Vedha Vyasa Vayanasala"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 10734373550,
+    "lat": 9.9188856,
+    "lon": 76.2848377,
+    "tags": {
+      "leisure": "park",
+      "name": "Kudannor"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 10734373551,
+    "lat": 9.9181402,
+    "lon": 76.2847189,
+    "tags": {
+      "leisure": "park",
+      "name": "Puramboku"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 10734571517,
+    "lat": 9.9192542,
+    "lon": 76.2896644,
+    "tags": {
+      "amenity": "library",
+      "name": "Kannangatu Library"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 10755325250,
+    "lat": 9.9311339,
+    "lon": 76.2507732,
+    "tags": {
+      "amenity": "library",
+      "name": "Kalakairali Library"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 10758164363,
+    "lat": 9.9416682,
+    "lon": 76.2546261,
+    "tags": {
+      "amenity": "library",
+      "name": "Dr Ambedkar Library"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 10758283048,
+    "lat": 9.9447984,
+    "lon": 76.2449348,
+    "tags": {
+      "leisure": "park",
+      "name": "St john Park"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 10758294425,
+    "lat": 9.9484202,
+    "lon": 76.2452623,
+    "tags": {
+      "amenity": "library",
+      "name": "Cochin Brothers Library and Reading Room"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 10946336212,
+    "lat": 9.9674678,
+    "lon": 76.2410669,
+    "tags": {
+      "district": "Ernakulam",
+      "museum_type": "regional",
+      "name": "Ernakulam District Heritage Museum",
+      "name:en": "Ernakulam District Heritage Museum",
+      "tourism": "museum"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 11059182605,
+    "lat": 9.9686055,
+    "lon": 76.2438934,
+    "tags": {
+      "name": "Sunset View",
+      "name:en": "Sunset View",
+      "tourism": "viewpoint"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 11096907105,
+    "lat": 9.9576501,
+    "lon": 76.2500955,
+    "tags": {
+      "addr:city": "Cochin",
+      "addr:district": "Ernakulam",
+      "addr:postcode": "682002",
+      "addr:street": "T. D. North Street",
+      "amenity": "place_of_worship",
+      "name": "Shri Mahalasa Narayani Devasthan",
+      "religion": "hindu"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 11124976971,
+    "lat": 9.9652538,
+    "lon": 76.239527,
+    "tags": {
+      "name": "David Hall",
+      "name:en": "David Hall",
+      "tourism": "gallery"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 11821528333,
+    "lat": 10.1403441,
+    "lon": 76.1787624,
+    "tags": {
+      "name": "Cherrai Beach",
+      "tourism": "attraction"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 11951875499,
+    "lat": 10.0078367,
+    "lon": 76.217234,
+    "tags": {
+      "name": "Valappu Wetland Viewpoint",
+      "tourism": "viewpoint"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 12066378869,
+    "lat": 9.9584512,
+    "lon": 76.2500912,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "narasimha prasad temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 12550935026,
+    "lat": 9.9636665,
+    "lon": 76.2396896,
+    "tags": {
+      "amenity": "arts_centre",
+      "check_date": "2025-02-02",
+      "name": "Kochi Folklore Odeum",
+      "note": "Daily Kathakali show"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  },
+  {
+    "type": "node",
+    "id": 12550935030,
+    "lat": 9.9653219,
+    "lon": 76.2419021,
+    "tags": {
+      "check_date": "2026-02-12",
+      "check_date:opening_hours": "2026-02-12",
+      "fee": "no",
+      "name": "Idha",
+      "opening_hours:signed": "no",
+      "phone": "+91 94475 08249",
+      "tourism": "gallery"
+    },
+    "_voyage_city": "kochi",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Kochi"
+  }
+]

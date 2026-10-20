@@ -1,0 +1,1476 @@
+[
+  {
+    "type": "node",
+    "id": 542886857,
+    "lat": 26.9247389,
+    "lon": 75.8244663,
+    "tags": {
+      "addr:city": "Jaipur",
+      "addr:country": "IN",
+      "addr:state": "Rajasthan",
+      "heritage:operator": "whc",
+      "historic": "archaeological_site",
+      "is_in:city": "Jaipur",
+      "is_in:country": "India",
+      "is_in:country_code": "IN",
+      "is_in:iso_3166_2": "IN-RJ",
+      "is_in:state": "Rajasthan",
+      "name": "जंतर मंतर, जयपुर",
+      "name:ar": "جايبور",
+      "name:bg": "Джайпур",
+      "name:bn": "যন্তর মন্তর",
+      "name:en": "Jantar Mantar",
+      "name:hi": "जन्तर मन्तर, जयपुर",
+      "name:ja": "ジャンタルマンタル天文台",
+      "name:ka": "ჯანტარ-მანტარი",
+      "name:ml": "ജന്തർ മന്തർ, ജയ്‌പൂർ",
+      "name:or": "ଯନ୍ତର ମନ୍ତର",
+      "name:ru": "Джантар-Мантар",
+      "name:ta": "ஜந்தர் மந்தர்",
+      "name:th": "ชันตรมันตระ",
+      "name:uk": "Янтра-мантра",
+      "name:zh": "简塔·曼塔天文台",
+      "ref:whc": "1338",
+      "start_date": "Early 18th century",
+      "tourism": "attraction",
+      "whc:criteria": "(iii),(iv)",
+      "whc:inscription_date": "2010",
+      "wikidata": "Q508634",
+      "wikipedia:en": "Jantar Mantar"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 542886858,
+    "lat": 26.923932,
+    "lon": 75.8268652,
+    "tags": {
+      "access": "yes",
+      "alt_name:de": "Palast der Winde",
+      "alt_name:en": "Palace of winds",
+      "alt_name:es": "Palacio de los vientos",
+      "alt_name:fr": "Palais des vents",
+      "alt_name:it": "Palazzo dei venti",
+      "alt_name:ru": "Дворец ветров",
+      "fee": "yes",
+      "historic": "monument",
+      "name": "Hawa Mahal",
+      "name:de": "Hawa Mahal",
+      "name:en": "Hawa Mahal",
+      "name:es": "Hawa Mahal",
+      "name:fr": "Hawa Mahal",
+      "name:hi": "हवा महल",
+      "name:it": "Hawa Mahal",
+      "name:ru": "Хава-Махал",
+      "name:zh": "风之宫",
+      "opening_hours": "Mon-Su 09:00-18:30",
+      "tourism": "attraction",
+      "wikidata": "Q836531"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 542960968,
+    "lat": 26.9846903,
+    "lon": 75.8453997,
+    "tags": {
+      "castle_type": "fortress",
+      "check_date": "2026-02-20",
+      "check_date:opening_hours": "2026-02-20",
+      "historic": "castle",
+      "name": "Jaighar Fort",
+      "name:de": "Fort Jaighar",
+      "name:hi": "जयगढ़ दुर्ग",
+      "opening_hours": "Mo-Su 09:00-18:30",
+      "tourism": "attraction",
+      "wikidata": "Q2722759"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 566816025,
+    "lat": 26.917056,
+    "lon": 75.8582201,
+    "tags": {
+      "alt_name": "Monkey Temple",
+      "amenity": "place_of_worship",
+      "name": "Galtaji",
+      "name:zh": "猴庙"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 566816109,
+    "lat": 26.9171235,
+    "lon": 75.8522929,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Sun Temple, Jaipur"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 956223020,
+    "lat": 26.9232015,
+    "lon": 75.8243929,
+    "tags": {
+      "name": "गुलाबी नगरी (पिंक सिटी)",
+      "name:en": "Pink City",
+      "name:hi": "गुलाबी नगरी (पिंक सिटी)",
+      "tourism": "attraction"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 957757380,
+    "lat": 26.9075663,
+    "lon": 75.8054827,
+    "tags": {
+      "artwork_type": "statue",
+      "material": "stone",
+      "name": "Sawai Jai Singh II",
+      "tourism": "artwork"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 1338013506,
+    "lat": 26.9457198,
+    "lon": 75.7978395,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Jain Temple",
+      "religion": "jain"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 1466911308,
+    "lat": 26.9164069,
+    "lon": 75.8059564,
+    "tags": {
+      "name": "Juneja Art Gallery",
+      "tourism": "artwork"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 1496872519,
+    "lat": 26.9117053,
+    "lon": 75.8194973,
+    "tags": {
+      "fee": "yes",
+      "name": "एल्बर्ट हॉल",
+      "name:en": "Albert Hall",
+      "name:hi": "एल्बर्ट हॉल",
+      "tourism": "museum",
+      "wikidata": "Q4710411"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 2598753117,
+    "lat": 26.9863104,
+    "lon": 75.8506607,
+    "tags": {
+      "heritage": "1",
+      "heritage:operator": "whc",
+      "historic": "archaeological_site",
+      "historic_1": "fort",
+      "name": "Amer Fort",
+      "name:en": "Amber Fort",
+      "name:es": "Fuerte Amber",
+      "name:fr": "Fort d'Amber",
+      "name:hi": "आमेर दुर्ग",
+      "name:it": "Forte Amber",
+      "name:ja": "アンベール城",
+      "name:nl": "Fort Ajmer",
+      "name:no": "Fort Amber",
+      "name:pt": "Forte de Amber",
+      "name:zh": "琥珀堡",
+      "opening_hours": "Mo-Su 08:00-17:30",
+      "ref:whc": "247-005",
+      "whc:criteria": "(ii)(iii)",
+      "whc:inscription_date": "2013",
+      "wikidata": "Q456817",
+      "wikipedia": "en:Amer Fort"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 2725293534,
+    "lat": 26.8805476,
+    "lon": 75.8105575,
+    "tags": {
+      "air_conditioning": "yes",
+      "amenity": "library",
+      "name": "Radha Krishna Central Library"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 2725298213,
+    "lat": 26.8875343,
+    "lon": 75.8109605,
+    "tags": {
+      "leisure": "park",
+      "name": "Moti Park"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 2725299208,
+    "lat": 26.8880625,
+    "lon": 75.8091472,
+    "tags": {
+      "leisure": "park",
+      "name": "Savitri Park"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 2777043242,
+    "lat": 26.9244425,
+    "lon": 75.8208167,
+    "tags": {
+      "amenity": "place_of_worship",
+      "check_date": "2026-02-21",
+      "check_date:opening_hours": "2026-02-21",
+      "name": "Iswari Minar Swarga Sali",
+      "name:en": "Iswari Minar Swarga Sali (Isarlat)",
+      "opening_hours": "Mo-Su 09:00-17:00",
+      "religion": "muslim",
+      "tourism": "viewpoint",
+      "website": "https://obms-tourist.rajasthan.gov.in/place-details/Isarlat"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 3078037353,
+    "lat": 26.8361321,
+    "lon": 75.7782433,
+    "tags": {
+      "addr:city": "Jaipur",
+      "addr:country": "IN",
+      "addr:district": "Jaipur",
+      "addr:state": "Rajasthan",
+      "amenity": "cinema",
+      "name": "Galaxy Cinema"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 3747084918,
+    "lat": 27.0114145,
+    "lon": 75.7524592,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "bomiyaji mandir",
+      "religion": "christian"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 3747144479,
+    "lat": 27.0147967,
+    "lon": 75.7492597,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "raghunathji ka mandir",
+      "religion": "hindu"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 3747149989,
+    "lat": 27.0145037,
+    "lon": 75.7504738,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Shiv Mandir",
+      "religion": "hindu"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 3747162226,
+    "lat": 27.0125158,
+    "lon": 75.7489287,
+    "tags": {
+      "name": "Ninder Hill Point View",
+      "tourism": "viewpoint"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 3748751472,
+    "lat": 26.8723969,
+    "lon": 75.2644303,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "ramdevji mandir"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 3748791518,
+    "lat": 26.8777851,
+    "lon": 75.2598471,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "balaji mandir",
+      "religion": "hindu"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 3748798334,
+    "lat": 26.8784135,
+    "lon": 75.2623106,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "kishan mandir",
+      "religion": "hindu"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 3771356458,
+    "lat": 26.7854254,
+    "lon": 75.8226628,
+    "tags": {
+      "historic": "monument",
+      "name": "India gate"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 3806117789,
+    "lat": 26.924589,
+    "lon": 75.8178018,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Sitaramji Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 3806140191,
+    "lat": 26.9287662,
+    "lon": 75.8239003,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Govind Dev Ji Ka Mandir",
+      "religion": "hindu"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 3806705458,
+    "lat": 26.9161162,
+    "lon": 75.8103552,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Sri Nrisinghji Mandir"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 3840690967,
+    "lat": 26.9024219,
+    "lon": 75.7862058,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Ram Mandir",
+      "religion": "hindu"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 3862442972,
+    "lat": 26.9033655,
+    "lon": 75.7924281,
+    "tags": {
+      "amenity": "cinema",
+      "brand": "INOX Leisure",
+      "brand:wikidata": "Q5972349",
+      "name": "Inox",
+      "short_name": "INOX"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 4140540310,
+    "lat": 26.9665232,
+    "lon": 75.7719264,
+    "tags": {
+      "amenity": "cinema",
+      "name": "Alka Theatre"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 4225230292,
+    "lat": 26.8286529,
+    "lon": 75.8442812,
+    "tags": {
+      "addr:postcode": "302017",
+      "amenity": "place_of_worship",
+      "name": "Khatu Shyam Mandir"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 4225292290,
+    "lat": 26.8309327,
+    "lon": 75.8428982,
+    "tags": {
+      "addr:postcode": "302017",
+      "amenity": "place_of_worship",
+      "name": "Gurudwara",
+      "religion": "sikh"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 4225298889,
+    "lat": 26.8296105,
+    "lon": 75.8425582,
+    "tags": {
+      "name": "Ashok Vihar, Jagatpura",
+      "tourism": "viewpoint"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 4306123990,
+    "lat": 26.9287664,
+    "lon": 75.8263453,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Gurudwara"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 4323259592,
+    "lat": 27.1175351,
+    "lon": 75.5055515,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Harji Ram Baba Temple, Khera Rampura"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 4455193020,
+    "lat": 26.9874584,
+    "lon": 75.9006841,
+    "tags": {
+      "attraction": "animal",
+      "description": "Indian's first happy elephant farm",
+      "name": "Elefantastic",
+      "phone": "+91 8094253150",
+      "tourism": "zoo",
+      "website": "https://www.elefantastic.in/"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 4568171759,
+    "lat": 26.9764494,
+    "lon": 75.772514,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Hanuman Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 4568171760,
+    "lat": 26.9770506,
+    "lon": 75.7723302,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Kalyanji Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 4568171767,
+    "lat": 26.9791212,
+    "lon": 75.7676301,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 4568171768,
+    "lat": 26.9764906,
+    "lon": 75.7716167,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Shiv Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 4568171769,
+    "lat": 26.9731548,
+    "lon": 75.7624373,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Shani Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 4568171770,
+    "lat": 26.9730831,
+    "lon": 75.7625929,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 4706056289,
+    "lat": 26.9956318,
+    "lon": 75.8764569,
+    "tags": {
+      "name": "Elefantastic",
+      "tourism": "attraction"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 4707865291,
+    "lat": 26.9448268,
+    "lon": 75.8407405,
+    "tags": {
+      "name": "Maharaniyon , Jaipur",
+      "name:en": "Maharaniyon",
+      "tourism": "attraction"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 4728303926,
+    "lat": 26.9126972,
+    "lon": 75.8209769,
+    "tags": {
+      "description": "Jaipur Zoo - tigers, lions, monkeys, birds, crocodiles",
+      "leisure": "park",
+      "name": "Jaipur Zoo"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 4761202095,
+    "lat": 26.8914085,
+    "lon": 75.8240665,
+    "tags": {
+      "leisure": "park",
+      "name": "Tilak Market Park"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 4784715022,
+    "lat": 26.9255317,
+    "lon": 75.8272703,
+    "tags": {
+      "name": "Sawai Mansingh Townhall",
+      "name:en": "Sawai Mansingh Townhall",
+      "tourism": "attraction"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 4907276516,
+    "lat": 26.9391114,
+    "lon": 75.8163025,
+    "tags": {
+      "addr:city": "Jaipur",
+      "addr:postcode": "302001",
+      "addr:street": "Nahargarh Fort",
+      "fee": "yes",
+      "name": "Jaipur Wax Museum",
+      "opening_hours": "Mo-Su 10:00-18:30",
+      "phone": "+91 97832 31953",
+      "tourism": "museum",
+      "website": "https://jaipurwaxmuseum.com/"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 4907289135,
+    "lat": 26.9854678,
+    "lon": 75.8500935,
+    "tags": {
+      "addr:city": "Amer",
+      "addr:housenumber": "Amber palace",
+      "addr:postcode": "302001",
+      "addr:street": "Delhi road",
+      "castle_type": "palace",
+      "historic": "monument",
+      "name": "Sheesh Mahal",
+      "phone": "+91 141 253 0293",
+      "website": "http://www.amberfort.org/"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 5079237889,
+    "lat": 26.9867232,
+    "lon": 75.8513569,
+    "tags": {
+      "historic": "city_gate",
+      "inscription": "Suraj Pol",
+      "name": "Suraj Pol",
+      "name:en": "Sun Gate",
+      "name:hi": "Suraj Pol",
+      "name:ru": "Солнечные ворота",
+      "tourism": "attraction"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 5079243358,
+    "lat": 26.987223,
+    "lon": 75.8508634,
+    "tags": {
+      "historic": "city_gate",
+      "inscription": "Chand Pol",
+      "name": "Chand Pol",
+      "name:en": "Moon Gate",
+      "name:ru": "Лунные ворота",
+      "tourism": "attraction"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 5079249026,
+    "lat": 26.9862904,
+    "lon": 75.8509196,
+    "tags": {
+      "name": "Diwān-i-Aam (Hall of Public Audience)",
+      "name:en": "Diwan-i-Am",
+      "name:ru": "Диван-и-Ам",
+      "tourism": "attraction"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 5474777676,
+    "lat": 26.902235,
+    "lon": 75.740735,
+    "tags": {
+      "addr:street": "Akshardham Mandir Road",
+      "amenity": "place_of_worship",
+      "name": "Akshardham-Mandir Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 5534904751,
+    "lat": 26.8563028,
+    "lon": 75.7741405,
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "hindu",
+      "name": "Shiva Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 5534909210,
+    "lat": 26.8642006,
+    "lon": 75.7673019,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Shiva Mandir",
+      "name:en": "Shiva Mandir",
+      "name:hi": "शिव मंदिर",
+      "name:ks": "شیو مندر",
+      "name:pa": "ਸ਼ਿਵ ਮੰਦਰ",
+      "name:pnb": "شو مندر",
+      "name:ur": "شیو مندر",
+      "religion": "hindu"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 5534914025,
+    "lat": 26.851119,
+    "lon": 75.7691169,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Shree Mahaveer Mandir",
+      "religion": "hindu"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 5553599905,
+    "lat": 26.8443983,
+    "lon": 75.8072115,
+    "tags": {
+      "name": "Alice Garg Seashell Museum",
+      "tourism": "museum"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 5579686521,
+    "lat": 26.9511782,
+    "lon": 75.857326,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Sankat Mochan Temple",
+      "name:en": "Hanuman Temple",
+      "name:fr": "Temple d’Hanuman"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 5828540786,
+    "lat": 26.9867146,
+    "lon": 75.8661354,
+    "tags": {
+      "addr:street": "mahendi ka bass",
+      "email": "sk501763@gmail.com",
+      "name": "Elephant village",
+      "name:de": "Elefantenreiten",
+      "name:en": "Elephant Riding",
+      "phone": "+918233976590",
+      "tourism": "attraction"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 6081535814,
+    "lat": 26.9162485,
+    "lon": 75.8098572,
+    "tags": {
+      "access": "yes",
+      "historic": "monument",
+      "image": "http://online.mnit.ac.in/About_Jaipur/images/panchbatti/panch1.jpg",
+      "name": "Paanch Batti"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 6728959763,
+    "lat": 26.9347083,
+    "lon": 75.923808,
+    "tags": {
+      "addr:city": "Jaipur",
+      "addr:housenumber": "OAT",
+      "addr:postcode": "302031",
+      "addr:street": "LNMIIT",
+      "leisure": "park",
+      "name": "Open Air Theater",
+      "operator": "LNMIIT"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 6866495534,
+    "lat": 26.9527483,
+    "lon": 75.8268016,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Charan Mandir",
+      "religion": "hindu"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 6938645049,
+    "lat": 26.8954164,
+    "lon": 75.7486286,
+    "tags": {
+      "addr:city": "Jaipur",
+      "addr:postcode": "302021",
+      "addr:street": "Ajmer Road",
+      "air_conditioning": "yes",
+      "amenity": "cinema",
+      "name": "Inox Movies Cinema",
+      "payment:cards": "yes",
+      "payment:cash": "yes",
+      "payment:online_booking": "yes",
+      "screen": "2"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 6966530613,
+    "lat": 26.912806,
+    "lon": 75.7434174,
+    "tags": {
+      "air_conditioning": "yes",
+      "amenity": "cinema",
+      "brand": "INOX Leisure",
+      "brand:wikidata": "Q5972349",
+      "name": "Inox Cinemas Vaibhav Tower",
+      "payment:cards": "yes",
+      "payment:cash": "yes",
+      "screen": "2",
+      "short_name": "INOX"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 7030319493,
+    "lat": 26.9556144,
+    "lon": 75.8432692,
+    "tags": {
+      "name": "Lake Palace Viewpoint , JAIPUR",
+      "tourism": "viewpoint"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 7043371159,
+    "lat": 26.9154928,
+    "lon": 75.7889389,
+    "tags": {
+      "leisure": "garden",
+      "name": "Ganpati Nagar Ground"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 7049512594,
+    "lat": 26.9411015,
+    "lon": 75.7713651,
+    "tags": {
+      "addr:city": "Jaipur",
+      "addr:street": "Jhotwara Road",
+      "amenity": "cinema",
+      "brand": "Cinépolis",
+      "brand:wikidata": "Q5686673",
+      "name": "Cinepolis"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 7057659986,
+    "lat": 26.8164657,
+    "lon": 75.7864476,
+    "tags": {
+      "name": "Sonava Printers",
+      "tourism": "artwork"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 7082388309,
+    "lat": 26.8346194,
+    "lon": 75.8451463,
+    "tags": {
+      "amenity": "library",
+      "name": "Vivekanand Library"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 7085549922,
+    "lat": 26.913653,
+    "lon": 75.7561729,
+    "tags": {
+      "addr:street": "Jharkhand Mahadev Marg",
+      "amenity": "place_of_worship",
+      "name": "Jharkhand Mahadev Mandir",
+      "religion": "hindu"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 7329285561,
+    "lat": 26.9828328,
+    "lon": 75.8529004,
+    "tags": {
+      "direction": "225-315",
+      "name": "Amber Fort",
+      "tourism": "viewpoint"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 7574698885,
+    "lat": 26.8963587,
+    "lon": 75.7470222,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "सेंट तोमस ओर्थोडोक्स चर्च",
+      "name:en": "St. Thomas Orthodox Church"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 7574703885,
+    "lat": 26.9739577,
+    "lon": 75.7550967,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "St. Mary's Orthodox Church",
+      "name:en": "St. Mary's Orthodox Church",
+      "name:hi": "सेंट मेरीज़ ओर्थोडोक्स चर्च"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 7656451967,
+    "lat": 26.8472681,
+    "lon": 75.7925579,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Mahadev Temple"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 7656457830,
+    "lat": 26.8462692,
+    "lon": 75.791885,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Tejaji Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 8041984445,
+    "lat": 26.9356052,
+    "lon": 75.7918151,
+    "tags": {
+      "addr:city": "Jaipur",
+      "addr:housenumber": "City Plaza, Pani Pech",
+      "addr:street": "Meera Marg",
+      "amenity": "cinema",
+      "brand": "INOX Leisure",
+      "brand:wikidata": "Q5972349",
+      "name": "Inox City Plaza - Space Cinemas",
+      "short_name": "INOX"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 8043906193,
+    "lat": 26.9754216,
+    "lon": 75.8506759,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Devi Khol, Kholeshwar Mahadev Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 8125607612,
+    "lat": 26.9027315,
+    "lon": 75.8362208,
+    "tags": {
+      "amenity": "cinema",
+      "brand": "INOX Leisure",
+      "brand:wikidata": "Q5972349",
+      "name": "Inox - Pink Sqaure Mall",
+      "short_name": "INOX"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 8125619178,
+    "lat": 26.9065251,
+    "lon": 75.8413333,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Raja Park Gurdwara",
+      "religion": "sikh"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 8129798999,
+    "lat": 26.9158458,
+    "lon": 75.7478435,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Vaishali Gurdwara",
+      "religion": "sikh"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 8171529028,
+    "lat": 27.1754741,
+    "lon": 75.9599772,
+    "tags": {
+      "artwork_type": "sculpture",
+      "material": "metal",
+      "name": "AMITY",
+      "tourism": "artwork"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 8171529030,
+    "lat": 27.1756337,
+    "lon": 75.9599567,
+    "tags": {
+      "artwork_type": "sculpture",
+      "name": "UNIVERSITY",
+      "tourism": "artwork"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 8171738003,
+    "lat": 26.8039663,
+    "lon": 75.6811564,
+    "tags": {
+      "alt_name": "nevta dam",
+      "name": "Neota Dam",
+      "tourism": "attraction",
+      "wikidata": "Q108439897",
+      "wikipedia": "en:Nevta Dam"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 8177124282,
+    "lat": 26.898377,
+    "lon": 75.4258499,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Dungari Wale Balaji",
+      "name:hi": "डूँगरी वाले बालाजी",
+      "religion": "hindu"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 8230355099,
+    "lat": 26.9595013,
+    "lon": 75.7960104,
+    "tags": {
+      "leisure": "park",
+      "name": "Kishan Bagh JDA",
+      "note": "Will add more details soon."
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 8384426815,
+    "lat": 27.0141294,
+    "lon": 75.8745784,
+    "tags": {
+      "addr:city": "Jaipur",
+      "addr:street": "NH 8, Kukas",
+      "fee": "yes",
+      "name": "Nahargarh Biological Park",
+      "name:hi": "नाहरगढ़ बायोलोजिकल पार्क",
+      "opening_hours": "Mo-Su 09:00-5:00",
+      "tourism": "zoo"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 8767067923,
+    "lat": 26.9498733,
+    "lon": 75.7973556,
+    "tags": {
+      "leisure": "park",
+      "name": "Khaddewala Park"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 8887519262,
+    "lat": 26.8461934,
+    "lon": 75.8966957,
+    "tags": {
+      "leisure": "park",
+      "name": "Indira gandhi nagar sector - 7 , park -2"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 8887561382,
+    "lat": 26.8452881,
+    "lon": 75.894943,
+    "tags": {
+      "addr:city": "jaipur",
+      "addr:postcode": "302017",
+      "leisure": "park",
+      "name": "indira gandhi nagar sector -7 ,  park - 1",
+      "opening_hours:covid19": "off"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 8887598883,
+    "lat": 26.8438459,
+    "lon": 75.8944229,
+    "tags": {
+      "addr:city": "jaipur",
+      "addr:postcode": "302017",
+      "leisure": "park",
+      "name": "indira gandhi nagar sector -7 , park -3",
+      "opening_hours:covid19": "off"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 8887633464,
+    "lat": 26.8408251,
+    "lon": 75.8875794,
+    "tags": {
+      "addr:city": "jaipur",
+      "leisure": "park",
+      "name": "sector 14 public park",
+      "opening_hours:covid19": "off"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 8887947522,
+    "lat": 26.8396045,
+    "lon": 75.8933508,
+    "tags": {
+      "leisure": "park",
+      "name": "indira gandhi nagar sector 6 , park -2"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 8887947523,
+    "lat": 26.8390992,
+    "lon": 75.8943276,
+    "tags": {
+      "addr:postcode": "302017",
+      "leisure": "park",
+      "name": "indira gandhi nagar sector 6 , park - 1"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 8887995499,
+    "lat": 26.8438695,
+    "lon": 75.8906032,
+    "tags": {
+      "leisure": "park",
+      "name": "indira gandhi nagar sector 8 , park - 1"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  },
+  {
+    "type": "node",
+    "id": 8887995500,
+    "lat": 26.8439321,
+    "lon": 75.8882215,
+    "tags": {
+      "leisure": "park",
+      "name": "indira gandhi nagar sector 8 , park - 2"
+    },
+    "_voyage_city": "jaipur",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Jaipur"
+  }
+]

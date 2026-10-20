@@ -1,0 +1,2034 @@
+[
+  {
+    "type": "node",
+    "id": 342120208,
+    "lat": 18.964365,
+    "lon": 72.8046198,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Saint Stephens",
+      "religion": "christian"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 346592564,
+    "lat": 19.0510021,
+    "lon": 72.8282639,
+    "tags": {
+      "amenity": "place_of_worship",
+      "check_date": "2025-01-09",
+      "denomination": "roman_catholic",
+      "name": "Mount Carmels Church",
+      "religion": "christian"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 346611983,
+    "lat": 19.0425669,
+    "lon": 72.8188717,
+    "tags": {
+      "created_by": "Potlatch 0.10f",
+      "name": "Amphitheatre",
+      "tourism": "attraction"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 346612688,
+    "lat": 19.0420614,
+    "lon": 72.818608,
+    "tags": {
+      "historic": "ruins",
+      "name": "Bandra Fort",
+      "old_name": "Castella de Aguarda"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 347194749,
+    "lat": 19.07022,
+    "lon": 72.8287784,
+    "tags": {
+      "artwork_type": "statue",
+      "junction": "yes",
+      "name": "Dr Babasaheb Ambedkar",
+      "tourism": "artwork"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 462267688,
+    "lat": 19.0001256,
+    "lon": 72.8141502,
+    "tags": {
+      "historic": "memorial",
+      "name": "Lal Bahadur Shastri"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 494772647,
+    "lat": 19.0419788,
+    "lon": 72.8184995,
+    "tags": {
+      "name": "Castella de Aguada",
+      "name:es": "Castillo de Aguada",
+      "name:pt": "Castelo de Aguada",
+      "tourism": "attraction"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 537762970,
+    "lat": 19.0509899,
+    "lon": 72.8601653,
+    "tags": {
+      "historic": "ruins",
+      "name": "Kala Qila",
+      "name:en": "Riwa Fort",
+      "tourism": "attraction",
+      "wikidata": "Q7338999",
+      "wikimedia_commons": "Category:Riwa Fort",
+      "wikipedia": "en:Riwa Fort"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 537766323,
+    "lat": 19.0420113,
+    "lon": 72.8381267,
+    "tags": {
+      "historic": "fort",
+      "name": "माहीम किल्ला",
+      "name:en": "Mahim Fort",
+      "tourism": "attraction",
+      "wikidata": "Q3633207",
+      "wikimedia_commons": "Category:Mahim Fort",
+      "wikipedia": "en:Mahim Fort"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 605221860,
+    "lat": 18.9439146,
+    "lon": 72.8258253,
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "catholic",
+      "name": "Our Lady of Seven Dolours",
+      "religion": "christian"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 605222669,
+    "lat": 18.9427438,
+    "lon": 72.8272693,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Gol Masjid",
+      "religion": "muslim"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 619344379,
+    "lat": 18.9620981,
+    "lon": 72.8186387,
+    "tags": {
+      "amenity": "cinema",
+      "check_date": "2026-03-20",
+      "name": "Goodwill Theatre"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 619345972,
+    "lat": 18.9628974,
+    "lon": 72.8190105,
+    "tags": {
+      "amenity": "place_of_worship",
+      "check_date": "2026-03-20",
+      "denomination": "parsi",
+      "name": "Mahela Patel Agyari",
+      "religion": "zoroastrian"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 619377230,
+    "lat": 18.9612251,
+    "lon": 72.8234361,
+    "tags": {
+      "amenity": "cinema",
+      "name": "New Roshan Talkies"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 619377234,
+    "lat": 18.9615152,
+    "lon": 72.8231708,
+    "tags": {
+      "amenity": "cinema",
+      "name": "Alfred Talkies"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 619377620,
+    "lat": 18.9618801,
+    "lon": 72.821185,
+    "tags": {
+      "amenity": "cinema",
+      "name": "Super Plaza Cinema"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 621556193,
+    "lat": 19.1008565,
+    "lon": 72.8416507,
+    "tags": {
+      "addr:street": "Besant Road",
+      "amenity": "place_of_worship",
+      "name": "Jain Derasar (Temple)",
+      "religion": "jain"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 632352284,
+    "lat": 19.0300345,
+    "lon": 72.9168629,
+    "tags": {
+      "name": "Neat's Tongue",
+      "natural": "peak"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 648837255,
+    "lat": 18.9319814,
+    "lon": 72.8377568,
+    "tags": {
+      "historic": "ruins",
+      "name": "Main Portuguese gate to Bombay Castle",
+      "url": "http://en.wikipedia.org/wiki/Bombay_Castle"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 649025707,
+    "lat": 19.1324703,
+    "lon": 72.7946179,
+    "tags": {
+      "historic": "fort",
+      "name": "Madh Fort",
+      "place": "locality",
+      "tourism": "attraction"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 662474023,
+    "lat": 18.9346524,
+    "lon": 72.8339357,
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "parsi",
+      "name": "Godavara (Gamadia) Agiary",
+      "religion": "zoroastrian"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 666041428,
+    "lat": 18.9355978,
+    "lon": 72.8371376,
+    "tags": {
+      "historic": "memorial",
+      "name": "Ruttonsee Mujee Fountain",
+      "source": "GPS"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 666041566,
+    "lat": 18.9345311,
+    "lon": 72.8357563,
+    "tags": {
+      "addr:city": "Mumbai",
+      "addr:postcode": "400001",
+      "addr:street": "Perin Nariman Street",
+      "display": "analog",
+      "historic": "monument",
+      "name": "Bomanjee Hormasjee Wadia Memorial Clock Tower",
+      "visibility": "area"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 666068463,
+    "lat": 18.9340663,
+    "lon": 72.8401441,
+    "tags": {
+      "historic": "monument",
+      "name": "Port Trust WWI Memorial"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 668494241,
+    "lat": 19.1319441,
+    "lon": 72.9143666,
+    "tags": {
+      "amenity": "theatre",
+      "check_date": "2026-05-24",
+      "name": "Convocation Hall"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 668494246,
+    "lat": 19.1322817,
+    "lon": 72.9158301,
+    "tags": {
+      "amenity": "theatre",
+      "check_date": "2025-12-16",
+      "name": "LT-PCSA",
+      "name:en": "PC Saxena Auditorium",
+      "toilets:wheelchair": "no",
+      "wheelchair": "yes"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 669259757,
+    "lat": 18.9245934,
+    "lon": 72.8325192,
+    "tags": {
+      "amenity": "cinema",
+      "check_date": "2026-03-12",
+      "name": "Regal Cinema"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 674769829,
+    "lat": 18.9828229,
+    "lon": 72.8089926,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "हाजी अली दर्गा",
+      "name:en": "Haji Ali Dargah",
+      "name:hi": "हाजी अली दरगाह",
+      "phone": "+91-22-2352-9082",
+      "religion": "muslim",
+      "website": "https://www.hajialidargah.in/",
+      "wikidata": "Q542756",
+      "wikimedia_commons": "Category:Haji Ali Dargah",
+      "wikipedia": "en:Haji Ali Dargah"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 674906629,
+    "lat": 18.9791636,
+    "lon": 72.8348012,
+    "tags": {
+      "name": "भाऊ दाजी लाड संग्रहालय",
+      "name:en": "Bhau Daji Lad Museum (Victoria & Albert Museum)",
+      "old_name": "Victoria & Albert Museum",
+      "tourism": "museum",
+      "wikidata": "Q5303985",
+      "wikimedia_commons": "Category:Dr. Bhau Daji Lad Museum",
+      "wikipedia": "en:Dr. Bhau Daji Lad Museum"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 695630140,
+    "lat": 19.1243128,
+    "lon": 72.8360841,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Shiv Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 714858847,
+    "lat": 18.9539279,
+    "lon": 72.8289145,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Mota Mandir",
+      "religion": "hindu"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 714896920,
+    "lat": 18.958069,
+    "lon": 72.8260061,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Suryenarayan Mandir",
+      "religion": "hindu"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 770452913,
+    "lat": 19.1205767,
+    "lon": 72.839801,
+    "tags": {
+      "name": "Gilbert Hill",
+      "natural": "peak",
+      "wikidata": "Q8519695",
+      "wikimedia_commons": "Category:Gilbert Hill",
+      "wikipedia": "en:Gilbert Hill"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 771136229,
+    "lat": 19.0207608,
+    "lon": 72.8652556,
+    "tags": {
+      "name": "Antop Hill",
+      "natural": "peak"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 771136777,
+    "lat": 18.9874184,
+    "lon": 72.8114617,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Maa Hajjani Masjid and Dargah",
+      "religion": "muslim"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 858463543,
+    "lat": 18.9553242,
+    "lon": 72.8310417,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Kazi Masjid",
+      "religion": "muslim"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 858565491,
+    "lat": 18.9580758,
+    "lon": 72.8281645,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Gol Deval",
+      "religion": "hindu"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 858606552,
+    "lat": 18.9574653,
+    "lon": 72.8365671,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Masjid",
+      "religion": "muslim",
+      "source": "GPS"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 860271204,
+    "lat": 18.9593695,
+    "lon": 72.8280732,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Dhakhni Mohalla Masjid",
+      "religion": "muslim",
+      "source": "GPS"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 861039769,
+    "lat": 18.9617015,
+    "lon": 72.8321028,
+    "tags": {
+      "alt_name": "J.J. Hospital",
+      "amenity": "place_of_worship",
+      "date": "1888",
+      "name": "एटझ चाईम प्रार्थना हॉल;Dr M. Iqbal Chowk",
+      "name:en": "Etz Haeem Prayer Hall",
+      "religion": "jewish",
+      "source": "GPS",
+      "url": "http://mumbai.mfa.gov.il/mfm/web/main/Print.asp?DocumentID=123576"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 861219171,
+    "lat": 18.9652609,
+    "lon": 72.8317756,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Dawni Masjid",
+      "religion": "muslim"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 861219177,
+    "lat": 18.9635614,
+    "lon": 72.8293294,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Choti Masjid",
+      "religion": "muslim"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 861219218,
+    "lat": 18.964215,
+    "lon": 72.8293279,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Masjid",
+      "religion": "muslim"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 899832827,
+    "lat": 19.0063255,
+    "lon": 72.8412359,
+    "tags": {
+      "amenity": "place_of_worship",
+      "check_date": "2026-03-20",
+      "name": "Buddhist Temple",
+      "religion": "buddhist"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 984287752,
+    "lat": 19.1549228,
+    "lon": 72.8562728,
+    "tags": {
+      "amenity": "cinema",
+      "name": "Movietime Hub",
+      "name:en": "Movietime Hub"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 985121048,
+    "lat": 19.1655121,
+    "lon": 72.8512018,
+    "tags": {
+      "amenity": "theatre",
+      "construction": "yes",
+      "name": "Anupam"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 1033625162,
+    "lat": 18.9572985,
+    "lon": 72.8364554,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Sayyed Ashiq Shah Bukhari Dargah Masjid",
+      "religion": "muslim",
+      "source": "GPS"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 1033625169,
+    "lat": 18.9565679,
+    "lon": 72.8363803,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Khoja Jama Masjid",
+      "religion": "muslim",
+      "wpt_symbol": "Flag, Red"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 1033742803,
+    "lat": 18.9492688,
+    "lon": 72.8371321,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "St Ignatius Church Mandvi",
+      "religion": "christian"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 1056702132,
+    "lat": 18.9273194,
+    "lon": 72.832212,
+    "tags": {
+      "amenity": "arts_centre",
+      "name": "Max Mueller Bahvan"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 1127817574,
+    "lat": 18.9420804,
+    "lon": 72.8272524,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Syed Qadar Shah Vali",
+      "religion": "muslim"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 1168348982,
+    "lat": 19.1681514,
+    "lon": 72.8497911,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "St. Thomas Church"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 1174222020,
+    "lat": 19.1626888,
+    "lon": 72.8382771,
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "catholic",
+      "name": "Our Lady of the Rosary Church",
+      "religion": "christian"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 1184009065,
+    "lat": 19.1594331,
+    "lon": 72.8721816,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Gaodevi Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 1282389460,
+    "lat": 19.051094,
+    "lon": 72.825701,
+    "tags": {
+      "historic": "memorial",
+      "name": "Statue of Saint Sebastian"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 1289231870,
+    "lat": 19.0175495,
+    "lon": 72.8491666,
+    "tags": {
+      "access": "no",
+      "artwork_type": "statue",
+      "historic": "monument",
+      "name": "Mancherji Edulji Joshi Statue",
+      "tourism": "artwork"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 1332570741,
+    "lat": 18.9322385,
+    "lon": 72.8279388,
+    "tags": {
+      "amenity": "cinema",
+      "name": "Eros Cinema"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 1345343347,
+    "lat": 19.1121986,
+    "lon": 72.8508276,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Omkareshwar Mandir",
+      "religion": "hindu"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 1345350829,
+    "lat": 19.1152427,
+    "lon": 72.8597103,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Holy Family Church",
+      "religion": "christian"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 1360134317,
+    "lat": 19.16658,
+    "lon": 72.8464104,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Amba Mata Mandir",
+      "religion": "hindu"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 1416484982,
+    "lat": 19.210638,
+    "lon": 72.8238855,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Hunuman Mandir"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 1451903346,
+    "lat": 19.081512,
+    "lon": 72.9119623,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Siddhivinayak Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 1480121955,
+    "lat": 19.261155,
+    "lon": 72.8597453,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Vithal Rakhumai Mandir",
+      "religion": "hindu"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 1495380531,
+    "lat": 19.0285178,
+    "lon": 72.8985148,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Shankar Deol",
+      "religion": "hindu"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 1579184280,
+    "lat": 19.1037194,
+    "lon": 72.8510068,
+    "tags": {
+      "name": "Loop Gallery",
+      "tourism": "viewpoint"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 1579303799,
+    "lat": 19.1038897,
+    "lon": 72.8525248,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Datta Mandir",
+      "religion": "hindu"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 1579337883,
+    "lat": 19.1038099,
+    "lon": 72.853807,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Hanuman Mandir",
+      "religion": "hindu"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 1641731964,
+    "lat": 19.074692,
+    "lon": 72.8235279,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Shri Dandeshwar Shankar Mandir",
+      "religion": "hindu"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 1646526516,
+    "lat": 19.0279945,
+    "lon": 72.8365824,
+    "tags": {
+      "name": "Samyukta Maharashtra Daalan",
+      "tourism": "museum"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 1646526594,
+    "lat": 19.0278184,
+    "lon": 72.8372671,
+    "tags": {
+      "artwork_type": "statue",
+      "name": "Chhatrapati Shivaji Maharaj",
+      "tourism": "artwork"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 1646850368,
+    "lat": 19.1235899,
+    "lon": 72.8426582,
+    "tags": {
+      "amenity": "cinema",
+      "name": "Navrang Talkies"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 1697438559,
+    "lat": 19.1148228,
+    "lon": 72.8275031,
+    "tags": {
+      "addr:street": "Parulekar Road",
+      "amenity": "cinema",
+      "brand": "PVR Cinemas",
+      "brand:wikidata": "Q3359908",
+      "name": "PVR Juhu",
+      "short_name": "PVR"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 1803674320,
+    "lat": 19.1032034,
+    "lon": 72.8464716,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Jain Temple"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 1803679093,
+    "lat": 19.1122716,
+    "lon": 72.8266876,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Jain Temple"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 1973436453,
+    "lat": 18.9258376,
+    "lon": 72.8313854,
+    "tags": {
+      "addr:city": "Mumbai",
+      "name": "नॅशनल गॅलरी ऑफ मॉडर्न आर्ट",
+      "name:en": "National Gallery of Modern Art",
+      "name:hi": "राष्ट्रीय आधुनिक कला संग्रहालय",
+      "source": "local_knowledge",
+      "tourism": "museum",
+      "website": "https://www.ngmaindia.gov.in/",
+      "wikidata": "Q15261119",
+      "wikimedia_commons": "Category:National Gallery of Modern Art, Mumbai",
+      "wikipedia": "en:National Gallery of Modern Art, Mumbai"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 2125320198,
+    "lat": 19.1414227,
+    "lon": 72.8310054,
+    "tags": {
+      "amenity": "cinema",
+      "name": "Cinemax Versova",
+      "wheelchair": "no"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 2125322944,
+    "lat": 19.1385954,
+    "lon": 72.8314565,
+    "tags": {
+      "amenity": "cinema",
+      "brand": "PVR Cinemas",
+      "brand:wikidata": "Q3359908",
+      "name": "PVR ECX",
+      "short_name": "PVR"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 2130347557,
+    "lat": 19.1293177,
+    "lon": 72.8172732,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Shiv Mandir",
+      "religion": "hindu"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 2134898672,
+    "lat": 19.0514705,
+    "lon": 72.86736,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Shri Krishna Mandir",
+      "religion": "hindu"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 2166796345,
+    "lat": 18.9376728,
+    "lon": 72.8332185,
+    "tags": {
+      "addr:postcode": "400001",
+      "addr:street": "Amit Keshav Nayak Marg",
+      "amenity": "cinema",
+      "name": "New Excelsior Cinema",
+      "name:de": "New Excelsior Cinema",
+      "name:en": "New Excelsior Cinema",
+      "phone": "022 2207 3830"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 2168788767,
+    "lat": 19.143004,
+    "lon": 72.8212585,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Lalsahi Dham Mandir",
+      "religion": "hindu",
+      "wheelchair": "yes"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 2176684917,
+    "lat": 18.9283598,
+    "lon": 72.8249692,
+    "tags": {
+      "historic": "memorial",
+      "memorial": "statue",
+      "name": "Mahatma Gandhi",
+      "subject:wikidata": "Q1001",
+      "subject:wikipedia": "mr:महात्मा गांधी"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 2178056768,
+    "lat": 18.9262387,
+    "lon": 72.829652,
+    "tags": {
+      "historic": "memorial",
+      "memorial": "statue",
+      "name": "Bhimrao Ramji Ambedkar memorial"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 2188851345,
+    "lat": 19.1121647,
+    "lon": 72.8647228,
+    "tags": {
+      "amenity": "cinema",
+      "name": "Sangam Big Cinema"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 2246472103,
+    "lat": 19.0672846,
+    "lon": 72.8827596,
+    "tags": {
+      "addr:city": "mumbai",
+      "addr:housenumber": "1",
+      "addr:postcode": "400024",
+      "addr:street": "railway Colony Road",
+      "amenity": "place_of_worship",
+      "denomination": "sunni",
+      "name": "fhatak majid",
+      "religion": "muslim"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 2319153768,
+    "lat": 19.0501484,
+    "lon": 72.9020969,
+    "tags": {
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "orthodox",
+      "name": "Mar Gregorios Orthodox Syrian Church",
+      "religion": "christian"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 2319214064,
+    "lat": 19.0395788,
+    "lon": 72.8951824,
+    "tags": {
+      "addr:city": "Chembur, Mumbai",
+      "addr:postcode": "400074",
+      "addr:street": "Ramakrishna Chemburkar Marg (Ghatkopar Mahul Road)",
+      "amenity": "cinema",
+      "name": "Ashish Theater"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 2366687563,
+    "lat": 19.1653481,
+    "lon": 72.8319181,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Shree Ram Mandir",
+      "religion": "hindu"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 2446329357,
+    "lat": 19.0143222,
+    "lon": 72.8255167,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Datta Mandir",
+      "religion": "hindu"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 2567525006,
+    "lat": 19.0420447,
+    "lon": 72.9279321,
+    "tags": {
+      "amenity": "theatre",
+      "name": "V. G. Kulkarni Auditorium"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 2567620985,
+    "lat": 19.038208,
+    "lon": 72.9208801,
+    "tags": {
+      "amenity": "place_of_worship",
+      "check_date": "2024-04-08",
+      "name": "Anushaktinagar Mosque",
+      "religion": "muslim"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 2568671333,
+    "lat": 19.0421717,
+    "lon": 72.9280492,
+    "tags": {
+      "name": "Gender & Science Exhibit",
+      "tourism": "attraction"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 2568781071,
+    "lat": 19.047166,
+    "lon": 72.9303725,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Ram Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 2800317006,
+    "lat": 19.1860125,
+    "lon": 72.8528843,
+    "tags": {
+      "addr:city": "Mumbi",
+      "addr:postcode": "400097",
+      "addr:street": "Poddar Road",
+      "amenity": "place_of_worship",
+      "name": "Panchasar derasar",
+      "religion": "jain"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 2851477517,
+    "lat": 19.0481951,
+    "lon": 72.8258974,
+    "tags": {
+      "denomination": "catholic",
+      "historic": "wayside_shrine",
+      "name": "St John The Baptist Shrine/Oratory",
+      "religion": "christian",
+      "start_date": "1781",
+      "tourism": "attraction"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 2895351320,
+    "lat": 19.0540784,
+    "lon": 72.8754063,
+    "tags": {
+      "addr:city": "Mumbai",
+      "addr:postcode": "400022",
+      "addr:street": "hill road,Sion-chunabhatti",
+      "amenity": "place_of_worship",
+      "denomination": "united",
+      "name": "Rameshwar Mandir",
+      "religion": "hindu",
+      "service_times": "opening_hours=Mo-Fr 11:00-17:00"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 2919862254,
+    "lat": 18.9551014,
+    "lon": 72.8220083,
+    "tags": {
+      "addr:city": "Mumbai",
+      "addr:postcode": "400004",
+      "addr:street": "Khadilkar Marg (Kandewadi Lane)",
+      "amenity": "place_of_worship",
+      "name": "Mahalaxmi Mandir",
+      "religion": "hindu"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 2930709937,
+    "lat": 19.0393285,
+    "lon": 72.9487422,
+    "tags": {
+      "addr:city": "Mumbai",
+      "addr:postcode": "400088",
+      "addr:street": "Cheeta Camp Market Road",
+      "amenity": "place_of_worship",
+      "name": "Kerala Masjid",
+      "religion": "muslim"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 2930715743,
+    "lat": 19.0698753,
+    "lon": 72.9120691,
+    "tags": {
+      "addr:city": "MUMBAI",
+      "leisure": "park",
+      "name": "NANA-NANI PARK"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 2930720778,
+    "lat": 19.0679196,
+    "lon": 72.8868461,
+    "tags": {
+      "addr:city": "mumbai",
+      "addr:housenumber": "1",
+      "addr:postcode": "400024",
+      "addr:street": "Railway Colony Road",
+      "amenity": "place_of_worship",
+      "name": "shankar mandir (kranti nagar central railway colony)",
+      "religion": "hindu"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 2930724471,
+    "lat": 19.0430184,
+    "lon": 72.9115187,
+    "tags": {
+      "leisure": "park",
+      "name": "drd park"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 2930733254,
+    "lat": 19.0679951,
+    "lon": 72.8840312,
+    "tags": {
+      "addr:city": "mumbai",
+      "addr:housenumber": "1",
+      "addr:postcode": "400024",
+      "addr:street": "railway colony",
+      "amenity": "place_of_worship",
+      "denomination": "united",
+      "name": "sai baba  mandir",
+      "religion": "hindu"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 2930734687,
+    "lat": 18.9512251,
+    "lon": 72.8298996,
+    "tags": {
+      "leisure": "park",
+      "name": "green park"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 2932494120,
+    "lat": 19.0246011,
+    "lon": 72.9064114,
+    "tags": {
+      "addr:city": "mumbai",
+      "addr:postcode": "400074",
+      "addr:street": "Vishnu Nagar Rd",
+      "amenity": "place_of_worship",
+      "name": "shiv mandir",
+      "religion": "hindu"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 2932495033,
+    "lat": 19.0227834,
+    "lon": 72.9028989,
+    "tags": {
+      "addr:city": "mumbai",
+      "addr:postcode": "400074",
+      "addr:street": "Laxman Umaji Gadkari Marg",
+      "amenity": "place_of_worship",
+      "name": "Sree Dutta mandir",
+      "religion": "hindu"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 2932496005,
+    "lat": 19.0246895,
+    "lon": 72.9064563,
+    "tags": {
+      "addr:city": "mumbai",
+      "addr:postcode": "400074",
+      "addr:street": "vishnu Nagar Rd",
+      "amenity": "place_of_worship",
+      "name": "lumboni budhh vihar",
+      "religion": "buddhist"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 2932902979,
+    "lat": 19.0624802,
+    "lon": 72.8992072,
+    "tags": {
+      "amenity": "cinema",
+      "name": "NATRAJ CINEMA",
+      "source": "Chembur"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 2947820896,
+    "lat": 19.0624399,
+    "lon": 72.8437618,
+    "tags": {
+      "amenity": "place_of_worship",
+      "check_date": "2025-06-13",
+      "name": "Bhomiya Mandir",
+      "religion": "hindu"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 2981312585,
+    "lat": 19.0654884,
+    "lon": 72.898421,
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "sunni",
+      "name": "Noori Masjid",
+      "religion": "muslim"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 3125255004,
+    "lat": 19.0404743,
+    "lon": 72.9490842,
+    "tags": {
+      "addr:city": "Mumbai",
+      "addr:postcode": "400088",
+      "addr:street": "M G Ramchandran Marg",
+      "amenity": "place_of_worship",
+      "name": "Meraj Masjid",
+      "religion": "muslim"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 3125255950,
+    "lat": 19.0436979,
+    "lon": 72.8936492,
+    "tags": {
+      "addr:city": "Mumbai",
+      "addr:postcode": "400074",
+      "addr:street": "Ramakrishna Chemburkar Marg (Ghatkopar Mahul Road)",
+      "amenity": "place_of_worship",
+      "denomination": "Bengal",
+      "name": "Kali -Bari Mandir",
+      "religion": "hindu"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 3133194581,
+    "lat": 19.054351,
+    "lon": 72.8936182,
+    "tags": {
+      "addr:city": "mumbai",
+      "addr:postcode": "400071",
+      "addr:street": "V N Purav Marg",
+      "amenity": "place_of_worship",
+      "name": "Siddhi Vinayak Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 3183016312,
+    "lat": 18.91909,
+    "lon": 72.8294331,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Mahadev Mandir",
+      "religion": "hindu"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 3186375634,
+    "lat": 19.1299315,
+    "lon": 72.8166544,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Someshwar Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 3202779969,
+    "lat": 18.949838,
+    "lon": 72.8397419,
+    "tags": {
+      "leisure": "park",
+      "name": "SK Nizam Park"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 3202928822,
+    "lat": 19.019633,
+    "lon": 72.8628095,
+    "tags": {
+      "leisure": "park",
+      "name": "santi park"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 3204193998,
+    "lat": 19.0400958,
+    "lon": 72.9466514,
+    "tags": {
+      "leisure": "park",
+      "name": "sam"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 3204194671,
+    "lat": 19.0610562,
+    "lon": 72.9083326,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Anand Buddha Vihar",
+      "religion": "buddhist"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 3204194672,
+    "lat": 19.061586,
+    "lon": 72.9089817,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "sngc mandira samiti"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 3204283861,
+    "lat": 19.0669983,
+    "lon": 72.9227436,
+    "tags": {
+      "addr:city": "MUMBAI",
+      "addr:postcode": "400043",
+      "addr:street": "Road Number 3",
+      "amenity": "place_of_worship",
+      "description": "PLOT NO 27/K/32 SHIVAJI NAGAR GOVANDI MUMBAI 43",
+      "fixme": "incorrect addr:housenumber information moved to description for now",
+      "name": "Shaikh Saba Class",
+      "religion": "muslim"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 3204454172,
+    "lat": 19.0358948,
+    "lon": 72.9507399,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "gulshane madina masjid",
+      "religion": "muslim"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 3204517900,
+    "lat": 19.0410539,
+    "lon": 72.9403001,
+    "tags": {
+      "addr:city": "Mumbai",
+      "amenity": "place_of_worship",
+      "check_date": "2023-09-06",
+      "name": "Narmadeshwar Shiva Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 3204526990,
+    "lat": 19.0704679,
+    "lon": 72.9215294,
+    "tags": {
+      "addr:city": "Mumbai",
+      "addr:postcode": "400043",
+      "amenity": "place_of_worship",
+      "description": "rafeek nager shivaji nager Govandi Mumbai 43",
+      "fixme": "incorrect addr:housenumber information moved to description for now",
+      "name": "Gazi Masgid",
+      "note": "sunni masjid madarsa Rahmaniya Rasool teach poor people at fee of coast all money and salary and expenses depend upon weekly chanda 50 to 100 child study her have a nice waju khana istenja khana and have a two floor",
+      "religion": "muslim"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 3205933255,
+    "lat": 19.0635029,
+    "lon": 72.9220329,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "kokan mazjid",
+      "religion": "muslim"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 3205950361,
+    "lat": 19.1050639,
+    "lon": 72.8925098,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "Ayyappa Temple",
+      "religion": "hindu"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 3205950667,
+    "lat": 19.0635349,
+    "lon": 72.9018356,
+    "tags": {
+      "addr:city": "mumbai",
+      "addr:postcode": "400089",
+      "addr:street": "P.L. Lokhande Marg",
+      "amenity": "place_of_worship",
+      "name": "dr. baba saheb ambedkar udhhan",
+      "religion": "buddhist"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 3205959678,
+    "lat": 19.0786873,
+    "lon": 72.9139937,
+    "tags": {
+      "leisure": "park",
+      "name": "children park"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 3205963993,
+    "lat": 19.068001,
+    "lon": 72.9212848,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "noorya bakaiya madarsa",
+      "religion": "muslim"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 3205970567,
+    "lat": 19.1051012,
+    "lon": 72.8910383,
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "roman_catholic",
+      "name": "Mary Matha Church",
+      "religion": "christian"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 3205970865,
+    "lat": 19.1588852,
+    "lon": 72.9310637,
+    "tags": {
+      "addr:postcode": "400 078",
+      "addr:street": "st anthony church road",
+      "amenity": "place_of_worship",
+      "denomination": "catholic",
+      "name": "st stephen's church",
+      "religion": "christian"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 3206017477,
+    "lat": 19.0688943,
+    "lon": 72.9205041,
+    "tags": {
+      "addr:city": "Mumbai",
+      "amenity": "place_of_worship",
+      "description": "rafeek nager shivaji nager Govandi Mumbai 400043",
+      "fixme": "incorrect addr:housenumber information moved to description for now",
+      "name": "Faiz-ul-Rasool Masjid",
+      "note": "madarsa and masjid have three flour 2nice waju khana all facility of arabic teacher poor people child get study about islaam and lern read quraan",
+      "religion": "muslim"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 3206031134,
+    "lat": 19.0696832,
+    "lon": 72.9207538,
+    "tags": {
+      "addr:city": "Mumbai",
+      "addr:street": "Madarase bahiste zehra s.a (shia imambada)",
+      "amenity": "place_of_worship",
+      "description": "rafeek nager shivaji nager govandi Mumbai 400043",
+      "fixme": "incorrect addr:housenumber information moved to description for now",
+      "name": "Bismillah Masjid",
+      "note": "bismillah masjid organised MADERSA GAUSULWARA and teach arabic in madarsa, have a nice waju khana having two floors teach arabic to poor people children quraan and get knowledge about islaam",
+      "religion": "muslim"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 3206043329,
+    "lat": 19.0595744,
+    "lon": 72.8890844,
+    "tags": {
+      "addr:city": "mumbai chembur",
+      "addr:postcode": "400071",
+      "addr:street": "Shell Colony Road",
+      "amenity": "place_of_worship",
+      "denomination": "orthodox",
+      "name": "footware",
+      "religion": "hindu"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 3206045671,
+    "lat": 19.0713741,
+    "lon": 72.9210037,
+    "tags": {
+      "addr:city": "Mumbai",
+      "addr:housenumber": "rafeek nager Shivaji nager Govandi Mumbai 400043",
+      "addr:street": "kurla",
+      "amenity": "place_of_worship",
+      "name": "Bab-e-Rahmat Masjid",
+      "note": "masjid and madersa having two floor teach poor people children give him knowledge about quoraan or islaam teach quraan",
+      "phone": "9821389460",
+      "religion": "muslim"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  },
+  {
+    "type": "node",
+    "id": 3206048676,
+    "lat": 19.0699116,
+    "lon": 72.921757,
+    "tags": {
+      "addr:city": "mumbai",
+      "addr:street": "kurla",
+      "amenity": "place_of_worship",
+      "denomination": "open_time_8;am_to_6pm",
+      "description": "rafeek nager Sivaji nager govandi Mumbai 400043",
+      "fixme": "incorrect addr:housenumber information moved to description for now",
+      "name": "Sai baba mandir",
+      "religion": "hindu"
+    },
+    "_voyage_city": "mumbai",
+    "_voyage_country": "India",
+    "_voyage_osm_area": "Mumbai"
+  }
+]
